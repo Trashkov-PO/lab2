@@ -1,1 +1,3545 @@
+Script started on 2020-03-12 18:00:53+0000
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# echo -e "Foreground in \e[33mYellow"Foregroun
+nd inYellow"
+[C[C[C[C[C Yellow"
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C,mForegrou[1@n[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C4mForegro[1@u[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C4mForegr[1@o[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C \e[33,44mForegro[1P[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C \e[33,44mForegrou[1P[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C\e[33,44mForegroun[1P[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C \e[33,44mForeground[1P[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C \e[33,44mForeground [1P[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C \e[33,44mForeground i[1P[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C \e[33,44mForeground in[1P Yellow"[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C \e[33,44mForeground in [1PYellow"[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C \e[33,44mForeground in Y[1Pellow"[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C \e[33,44mForeground in Ye[1Pllow"[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C \e[33,44mForeground in Yel[C[1Pow"[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C \e[33,44mForeground in Yell[1Pow"[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C \e[33,44mForeground in Yello[1Pw"[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C\e[33,44mForeground in Yellow[1P"[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
 
+[C ", "[C "b "a "ck "g "r "o "u "n "d "[C "i "n  "b "l "u "e "[C\"e"["0"m"[C
+[33,44mForeground in Yellow, background in blue [0m
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# clear
+[3J[H[2J]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# clearecho -e "\e[33,44mForeground in Yellow
+w, background in blue \e[0m"
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C44mForeground in Yellow,[1P[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C;44mForeground in Yellow[1@,[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+
+[33;44mForeground in Yellow, background in blue [0m
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# echo -e "\e[33;44mForeground in Yellow
+w, background in blue \e[0m"
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CNo\e[33;44mForeground in Yell[2@ow[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[Cr\e[33;44mForeground in Yel[1@l[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[Cm\e[33;44mForeground in Ye[C[1@l[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[Ca\e[33;44mForeground in Y[1@e[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[Cl\e[33;44mForeground in [1@Y[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C \e[33;44mForeground in[1@ [A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CmForeground in [1P[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CmForeground in Y[1P[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CmForeground in Ye[1P[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CmForeground in Yel[C[1P[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CmForeground in Yell[1P[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CBmForeground in Yel[1@l[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[ComForeground in Ye[C[1@l[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[ClmForeground in Y[1@e[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CdmForeground in [1@Y[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CmForeground in Y[1P[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CmForeground in Ye[1P[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CmForeground in Yel[C[1P[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CmForeground in Yell[1P[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CmForeground in Yello[1P[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[mForeground in Yell[1@o[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Coreground in Yello[1P[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Creground in Yellow[1P[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ceground in Yellow,[1P[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cground in Yellow, [1P[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cround in Yellow, b[1P[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cound in Yellow, ba[1P[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cund in Yellow, bac[1P[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cnd in Yellow, back[1P[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cd in Yellow, backg[1P[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C in Yellow, backgr[1P[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cin Yellow, backgro[1P[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cn Yellow, backgrou[1P[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C Yellow, backgroun[1P[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CYellow, background[1P[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cellow, background [1P[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cllow, background i[1P[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cow, background in[1P[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cow, background in [1P[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cw, background in b[1P[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C, background in bl[1P[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C background in blu[1P[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cbackground in blue[1P \e[0m"[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cackground in blue [1P\e[0m"[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cckground in blue \[1Pe[0m"[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ckground in blue \e[1P[0m"[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cground in blue \e[[1P0m"[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cround in blue \e[0[1Pm"[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cound in blue \e[0m[1P"[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cund in blue \e[0m"[K[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cnd in blue \e[0m" 
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P
+
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1P[1P[1P[1P[1P[1P[1P \e[0m"D \e[0m"[1P \e[0m"B \e[0m"a \e[0m"l \e[0m"d \e[0m"[C \e[0m"\e[m \e[0m"U \e[0m" [A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cn \e[0m"
+"[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cd \e[0m"[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ce \e[0m"[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cr \e[0m"[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cl \e[0m"[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ci \e[0m"[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cn \e[0m"
+e \e[0m"
+[Cd \e[0m"
+[C[C[C \e[0m"
+[C[C[C\e[m \e[0m"B \e[0m"l \e[0m"o \e[0m"[1P \e[0m"i \e[0m"n \e[0m"k \e[0m"[C[C[C[C[C[C "N"o"r"m"a"l"[1PNormal"[C[1@0[1@;[1@5
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0mUnderlin[1@e[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C;mUnderli[1@n[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C4mUnderl[1@i[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C1mBald \e[0;4mUnder[1@l[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+
+Normal [1mBald [0;4mUnderlined [0;5mBlink [0mNormal
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# echo -e "Normal \e[1mBald \e[0;4mUnder
+rlined \e[0;5mBlink \e[0mNormal"[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C\e[33;44mForeground in Yellow[4P, background in blue \e[0m"[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# clear[K
+
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho -e "\e[33;44mForeground in Yellow
+w, background in blue \e[0m"
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P \e[0m"[1P \e[0m"[1P \e[0m"[1P \e[0m"[1P\e[0m"[1P \e[0m"[1P \e[0m"[1P\e[0m"[1P \e[0m"[1P \e[0m"[1P \e[0m"[1P \e[0m"[1P \e[0m"[1P \e[0m"[1P \e[0m"[1P \e[0m"
+[C[C[C[C[C[1P \e[0m"
+[C[C[C[C[1P \e[0m"
+[C[C[C[1P\e[0m"
+[C[C[1P \e[0m"
+[C
+[1P \e[0m"
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C \[1Pe[0m"[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C \e[1P[0m"[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C \e[[1P0m"[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C \e[0[1Pm"[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C \e[0m[1P"[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C\e[0m"[K[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C \e[0m" 
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P \e[0m"
+
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P\e[0m"[1P \e[0m"[1P \e[0m"[1P \e[0m"[1P \e[0m"[1P \e[0m"[1P \e[0m"[1P \e[0m"[1P \e[0m"[1P \e[0m"[1P \e[0m"B \e[0m"l \e[0m"u \e[0m"e \e[0m"B \e[0m"g \e[0m"[C \e[0m"Y \e[0m"e \e[0m"l \e[0m"l \e[0m"o \e[0m" [A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cw \e[0m"
+"[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CF \e[0m"[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cg \e[0m"[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C \e[0m"[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C\e[33;44m \e[0m"[C[C[C[1P[1P[1P[1P
+[1P[1@1[CB \e[0m"
+[C[C[Cl \e[0m"
+[C[C[C[C[1P \e[0m"
+[C[C[Co \e[0m"
+[C[C[C[Cl \e[0m"
+[C[C[C[C[Cd \e[0m"[C \e[0m"\e[33;44m \e[0m"[C[1@0[1@;[C[C[C[C[C[1@;[1@4[CU \e[0m"n \e[0m"d \e[0m"e \e[0m"r \e[0m"l \e[0m"i \e[0m"n \e[0m"e \e[0m"d \e[0m"\e[33;44m \e[0m"[1@0[1@;[C[C[C[C[C[1@;[1@5[C[C \e[0m"B \e[0m"l \e[0m"i \e[0m"n \e[0m"k \e[0m"[C[C[C\e[33;44m \e[0m"[1@0[1@;[C[C[C[C[C[C[C \e[0m"N \e[0m"o \e[0m"r \e[0m" [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cm \e[0m"
+"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ca \e[0m"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cl \e[0m"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C\e[0m[1P"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+
+[33;44mBlueBg YellowFg [1mBold [0;33;44;4mUnderlined[0;33;44;5m Blink[0;33;44m Normal[0m
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# clear
+[3J[H[2J]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# data
+
+Command 'data' not found, did you mean:
+
+  command 'dat' from deb liballegro4-dev
+  command 'date' from deb coreutils
+
+Try: apt install <deb name>
+
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# date
+Thu Mar 12 18:17:13 UTC 2020
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# clear
+[3J[H[2J]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# printf
+printf: usage: printf [-v var] format [arguments]
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# man printf
+[?1049h[22;0;0t[?1h=
+PRINTF(1)                   User Commands                   PRINTF(1)[m
+[m
+[1mNAME[0m[m
+       printf - format and print data[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mprintf[0m [4mFORMAT[24m [[4mARGUMENT[24m]...[m
+       [1mprintf[0m [4mOPTION[24m[m
+[m
+[1mDESCRIPTION[0m[m
+       Print ARGUMENT(s) according to FORMAT, or execute according to[m
+       OPTION:[m
+[m
+       [1m--help[0m display this help and exit[m
+[m
+       [1m--version[0m[m
+              output version information and exit[m
+[m
+       FORMAT controls  the  output  as  in  C  printf.   Interpreted[m
+       sequences are:[m
+[m
+       \"     double quote[m
+[m
+       \\     backslash[m
+[m
+       \a     alert (BEL)[m
+[m
+       \b     backspace[m
+[7m Manual page printf(1) line 1 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page printf(1) line 2 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       \c     produce no further output[m
+[7m Manual page printf(1) line 3 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page printf(1) line 4 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       \e     escape[m
+[7m Manual page printf(1) line 5 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page printf(1) line 6 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       \f     form feed[m
+[7m Manual page printf(1) line 7 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page printf(1) line 8 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       \n     new line[m
+[7m Manual page printf(1) line 9 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page printf(1) line 10 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       \r     carriage return[m
+[7m Manual page printf(1) line 11 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page printf(1) line 12 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       \t     horizontal tab[m
+[7m Manual page printf(1) line 13 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page printf(1) line 14 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       \v     vertical tab[m
+[7m Manual page printf(1) line 15 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page printf(1) line 16 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       \NNN   byte with octal value NNN (1 to 3 digits)[m
+[7m Manual page printf(1) line 17 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page printf(1) line 18 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       \xHH   byte with hexadecimal value HH (1 to 2 digits)[m
+[7m Manual page printf(1) line 19 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page printf(1) line 20 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       \uHHHH Unicode  (ISO/IEC  10646) character with hex value HHHH[m
+[7m Manual page printf(1) line 21 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              (4 digits)[m
+[7m Manual page printf(1) line 22 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page printf(1) line 23 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       \UHHHHHHHH[m
+[7m Manual page printf(1) line 24 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              Unicode character with hex value HHHHHHHH (8 digits)[m
+[7m Manual page printf(1) line 25 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page printf(1) line 26 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       %%     a single %[m
+[7m Manual page printf(1) line 27 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page printf(1) line 28 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       %b     ARGUMENT as a  string  with  '\'  escapes  interpreted,[m
+[7m Manual page printf(1) line 29 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              except that octal escapes are of the form \0 or \0NNN[m
+[7m Manual page printf(1) line 30 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page printf(1) line 31 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       %q     ARGUMENT  is  printed in a format that can be reused as[m
+[7m Manual page printf(1) line 32 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              shell input, escaping non-printable characters with the[m
+[7m Manual page printf(1) line 33 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              proposed POSIX $'' syntax.[m
+[7m Manual page printf(1) line 34 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page printf(1) line 35 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       and all C format specifications ending with one of diouxXfeEg‐[m
+[7m Manual page printf(1) line 36 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       Gcs, with ARGUMENTs converted to proper type first.   Variable[m
+[7m Manual page printf(1) line 37 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       widths are handled.[m
+[7m Manual page printf(1) line 38 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page printf(1) line 39 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       NOTE:  your  shell  may  have its own version of printf, which[m
+[7m Manual page printf(1) line 40 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       usually supersedes the version described here.   Please  refer[m
+[7m Manual page printf(1) line 41 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       to your shell's documentation for details about the options it[m
+[7m Manual page printf(1) line 42 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       supports.[m
+[7m Manual page printf(1) line 43 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page printf(1) line 44 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[1mAUTHOR[0m[m
+[7m Manual page printf(1) line 45 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       Written by David MacKenzie.[m
+[7m Manual page printf(1) line 46 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page printf(1) line 47 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[1mREPORTING[0m [1mBUGS[0m[m
+[7m Manual page printf(1) line 48 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       GNU coreutils online help:  <http://www.gnu.org/software/core‐[m
+[7m Manual page printf(1) line 49 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       utils/>[m
+[7m Manual page printf(1) line 50 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       Report  printf  translation  bugs  to  <http://translationpro‐[m
+[7m Manual page printf(1) line 51 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       ject.org/team/>[m
+[7m Manual page printf(1) line 52 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page printf(1) line 53 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[1mCOPYRIGHT[0m[m
+[7m Manual page printf(1) line 54 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       Copyright ©  2017  Free  Software  Foundation,  Inc.   License[m
+[7m Manual page printf(1) line 55 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       GPLv3+:      GNU      GPL      version      3     or     later[m
+[7m Manual page printf(1) line 56 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       <http://gnu.org/licenses/gpl.html>.[m
+[7m Manual page printf(1) line 57 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       This is free software: you are free to change and redistribute[m
+[7m Manual page printf(1) line 58 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       it.  There is NO WARRANTY, to the extent permitted by law.[m
+[7m Manual page printf(1) line 59 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page printf(1) line 60 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[1mSEE[0m [1mALSO[0m[m
+[7m Manual page printf(1) line 61 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       printf(3)[m
+[7m Manual page printf(1) line 62 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page printf(1) line 63 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       Full   documentation   at:  <http://www.gnu.org/software/core‐[m
+[7m Manual page printf(1) line 64 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       utils/printf>[m
+[7m Manual page printf(1) line 65 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       or available locally via: info '(coreutils) printf invocation'[m
+[7m Manual page printf(1) line 66 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page printf(1) line 67 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[KGNU coreutils 8.28           January 2018                   PRINTF(1)[m
+[7m Manual page printf(1) line 68 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7manual page printf(1) line 68/95 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7manual page printf(1) line 68/95 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7manual page printf(1) line 68/95 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7manual page printf(1) line 68/95 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7manual page printf(1) line 68/95 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7manual page printf(1) line 68/95 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7manual page printf(1) line 68/95 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7manual page printf(1) line 68/95 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7manual page printf(1) line 68/95 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7manual page printf(1) line 68/95 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7manual page printf(1) line 68/95 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7manual page printf(1) line 68/95 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       NOTE:  your  shell  may  have its own version of printf, which[m
+[29;1H
+[K[7m Manual page printf(1) line 67/95 98% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 66/95 98% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       widths are handled.[m
+[29;1H
+[K[7m Manual page printf(1) line 65/95 95% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       Gcs, with ARGUMENTs converted to proper type first.   Variable[m
+[29;1H
+[K[7m Manual page printf(1) line 64/95 94% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       and all C format specifications ending with one of diouxXfeEg‐[m
+[29;1H
+[K[7m Manual page printf(1) line 63/95 92% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 62/95 92% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM              proposed POSIX $'' syntax.[m
+[29;1H
+[K[7m Manual page printf(1) line 61/95 91% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM              shell input, escaping non-printable characters with the[m
+[29;1H
+[K[7m Manual page printf(1) line 60/95 90% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       %q     ARGUMENT  is  printed in a format that can be reused as[m
+[29;1H
+[K[7m Manual page printf(1) line 59/95 90% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 58/95 88% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM              except that octal escapes are of the form \0 or \0NNN[m
+[29;1H
+[K[7m Manual page printf(1) line 57/95 86% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       %b     ARGUMENT as a  string  with  '\'  escapes  interpreted,[m
+[29;1H
+[K[7m Manual page printf(1) line 56/95 84% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 55/95 82% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       %%     a single %[m
+[29;1H
+[K[7m Manual page printf(1) line 54/95 79% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 53/95 78% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM              Unicode character with hex value HHHHHHHH (8 digits)[m
+[29;1H
+[K[7m Manual page printf(1) line 52/95 78% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       \UHHHHHHHH[m
+[29;1H
+[K[7m Manual page printf(1) line 51/95 77% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 50/95 75% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM              (4 digits)[m
+[29;1H
+[K[7m Manual page printf(1) line 49/95 74% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       \uHHHH Unicode  (ISO/IEC  10646) character with hex value HHHH[m
+[29;1H
+[K[7m Manual page printf(1) line 48/95 72% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 47/95 71% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       \xHH   byte with hexadecimal value HH (1 to 2 digits)[m
+[29;1H
+[K[7m Manual page printf(1) line 46/95 70% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 45/95 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       \NNN   byte with octal value NNN (1 to 3 digits)[m
+[29;1H
+[K[7m Manual page printf(1) line 44/95 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 43/95 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       \v     vertical tab[m
+[29;1H
+[K[7m Manual page printf(1) line 42/95 68% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 41/95 66% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       \t     horizontal tab[m
+[29;1H
+[K[7m Manual page printf(1) line 40/95 63% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 39/95 61% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       \r     carriage return[m
+[29;1H
+[K[7m Manual page printf(1) line 38/95 61% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 37/95 60% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       \n     new line[m
+[29;1H
+[K[7m Manual page printf(1) line 36/95 57% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 35/95 55% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       \f     form feed[m
+[29;1H
+[K[7m Manual page printf(1) line 34/95 55% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 33/95 53% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       \e     escape[m
+[29;1H
+[K[7m Manual page printf(1) line 32/95 51% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 31/95 48% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       \c     produce no further output[m
+[29;1H
+[K[7m Manual page printf(1) line 30/95 48% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 29/95 46% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       \b     backspace[m
+[29;1H
+[K[7m Manual page printf(1) line 28/95 44% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 27/95 44% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       \a     alert (BEL)[m
+[29;1H
+[K[7m Manual page printf(1) line 26/95 43% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 25/95 43% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       \\     backslash[m
+[29;1H
+[K[7m Manual page printf(1) line 24/95 40% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 23/95 40% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       \"     double quote[m
+[29;1H
+[K[7m Manual page printf(1) line 22/95 40% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 21/95 39% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       sequences are:[m
+[29;1H
+[K[7m Manual page printf(1) line 20/95 36% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       FORMAT controls  the  output  as  in  C  printf.   Interpreted[m
+[29;1H
+[K[7m Manual page printf(1) line 19/95 36% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 18/95 34% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM              output version information and exit[m
+[29;1H
+[K[7m Manual page printf(1) line 17/95 34% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       [1m--version[0m[m
+[29;1H
+[K[7m Manual page printf(1) line 16/95 32% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 15/95 32% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       [1m--help[0m display this help and exit[m
+[29;1H
+[K[7m Manual page printf(1) line 14/95 31% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 13/95 31% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       OPTION:[m
+[29;1H
+[K[7m Manual page printf(1) line 12/95 30% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       Print ARGUMENT(s) according to FORMAT, or execute according to[m
+[29;1H
+[K[7m Manual page printf(1) line 11/95 30% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[1mDESCRIPTION[0m[m
+[29;1H
+[K[7m Manual page printf(1) line 10/95 29% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 9/95 29% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       [1mprintf[0m [4mOPTION[24m[m
+[29;1H
+[K[7m Manual page printf(1) line 8/95 28% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       [1mprintf[0m [4mFORMAT[24m [[4mARGUMENT[24m]...[m
+[29;1H
+[K[7m Manual page printf(1) line 7/95 28% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[1mSYNOPSIS[0m[m
+[29;1H
+[K[7m Manual page printf(1) line 6/95 27% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 5/95 27% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       printf - format and print data[m
+[29;1H
+[K[7m Manual page printf(1) line 4/95 27% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[1mNAME[0m[m
+[29;1H
+[K[7m Manual page printf(1) line 3/95 27% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 2/95 25% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HMPRINTF(1)                   User Commands                   PRINTF(1)[m
+[29;1H
+[K[7m Manual page printf(1) line 1/95 25% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page printf(1) line 1/95 25% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page printf(1) line 1/95 25% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page printf(1) line 1/95 25% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page printf(1) line 1/95 25% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page printf(1) line 1/95 25% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page printf(1) line 1/95 25% (press h for help or q to quit)[27m[K
+[K[?1l>[?1049l[23;0;0t]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# printf --help
+printf: printf [-v var] format [arguments]
+    Formats and prints ARGUMENTS under control of the FORMAT.
+    
+    Options:
+      -v var	assign the output to shell variable VAR rather than
+    		display it on the standard output
+    
+    FORMAT is a character string which contains three types of objects: plain
+    characters, which are simply copied to standard output; character escape
+    sequences, which are converted and copied to the standard output; and
+    format specifications, each of which causes printing of the next successive
+    argument.
+    
+    In addition to the standard format specifications described in printf(1),
+    printf interprets:
+    
+      %b	expand backslash escape sequences in the corresponding argument
+      %q	quote the argument in a way that can be reused as shell input
+      %(fmt)T	output the date-time string resulting from using FMT as a format
+    	        string for strftime(3)
+    
+    The format is re-used as necessary to consume all of the arguments.  If
+    there are fewer arguments than the format requires,  extra format
+    specifications behave as if a zero value or null string, as appropriate,
+    had been supplied.
+    
+    Exit Status:
+    Returns success unless an invalid option is given or a write or assignment
+    error occurs.
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# clear
+[3J[H[2J]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# date ""+"T"o"d"a"y" "i"s" "%"d","%"m","%"[1Pm,%"[C[C%m,%"[C[C[Cy","%"n"[1P%n"[C[CT"h"e" "t"i"m"e" "n" [A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Co"
+"
+w" "i"s" "%"h"[1P"H":"%"M":"%"S"
+Today is 12,03,20
+The time now is 18:40:38
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# kal 3[K[K[K[K[Kcal 3 2002[K[K[K020
+     March 2020       
+Su Mo Tu We Th Fr Sa  
+ 1  2  3  4  5  6  7  
+ 8  9 10 11 [7m12[27m 13 14  
+15 16 17 18 19 20 21  
+22 23 24 25 26 27 28  
+29 30 31              
+                      
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# cal 2[K10 2020
+    October 2020      
+Su Mo Tu We Th Fr Sa  
+             1  2  3  
+ 4  5  6  7  8  9 10  
+11 12 13 14 15 16 17  
+18 19 20 21 22 23 24  
+25 26 27 28 29 30 31  
+                      
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# cal 10 1999
+    October 1999      
+Su Mo Tu We Th Fr Sa  
+                1  2  
+ 3  4  5  6  7  8  9  
+10 11 12 13 14 15 16  
+17 18 19 20 21 22 23  
+24 25 26 27 28 29 30  
+31                    
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# cal 10 19992020[K[K[K[K[K[K[K[K[K[K[Kcal 3 2020date "+Today is %d,%m,%y%nThe time now
+w is %H:%M:%S"[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# clear[K
+
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cprintf --help[3Pman printf[4Pprintf[1Pclear[1Pdateaclearecho -e "\e[33;44mBlueBg YellowFg \e[1
+1mBold \e[0;33;44;4mUnderlined\e[0;33;44;5m Blink\e[0;33;44m Normal\e[0m
+m"[A[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[CNormal \e[1mBald \e[0;4mUnder[39Plined \e[0;5mBlink \e[0mNormal"
+
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C\e[33;44mForeground in Yellow[4P, background in blue \e[0m"[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# clear[K
+
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho -e "\e[33,44mForeground in Yellow
+w, background in blue \e[0m"[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# script -ttimelog4trashkov task4trashkov[K[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# clear[K
+
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pllgit clone https://github.com/fpmibsuli
+inux/linux-labraboty-2020-rayofhope1.git[All[K
+
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit push -u origin masterll[Kgit initecho "# linux-labraboty-2020-rayofhope
+e1" >> README.md[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# git remote add origin https://github.com/fpmibsulinux/linux-labraboty-2020-rayofhope1.git[A[9Pcommit -m "first commit"
+
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Padd README.mdinit[Kecho "# linux-labraboty-2020-rayofhope
+e1" >> README.md[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [24PTEST-REPO.git
+
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit clone git@github.com:pashawit/[13Pcat ~/.ssh/id_rsa.publear[Kgit config --listglobal user.name pashawit
+t[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[Clone git@github.com:pashawit/TEST-REPO.git[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# clear[K
+
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Plsgit config --listclear[Kgit config --list[2Papt install git[C[C[C[C[C[1Pt[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit clone git@github.com:room255131/TE
+EST-REPO.git[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [K
+
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear
+[3J[H[2J]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# clearal 10 1999[Kcal 3 2020date "+Today is %d,%m,%y%nThe time now
+w is %H:%M:%S"
+Today is 12,03,20
+The time now is 18:43:13
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# clear
+[3J[H[2J]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# cleardate "+Today is %d,%m,%y%nThe time now
+w is %H:%M:%S"[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# clear[K
+
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cdate "+Today is %d,%m,%y%nThe time now
+w is %H:%M:%S"
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C time no[1@w[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C time n[1@o[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C time [1@n[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctime n[1P[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctime no[1P[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctime now[1P[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C time now [1P[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C time now i[1P[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ch time now [1@i[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ce time now[1@ [A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+
+Today is 12,03,20
+The time now is 18:43:46
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# clear
+[3J[H[2J]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# cleardate "+Today is %d,%m,%y%nThe time now
+w is %H:%M:%S"[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# clear[K
+
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cdate "+Today is %d,%m,%y%nThe time now
+w is %H:%M:%S"[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# clear[K
+
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cal 10 1999[Kcal 3 2020
+     March 2020       
+Su Mo Tu We Th Fr Sa  
+ 1  2  3  4  5  6  7  
+ 8  9 10 11 [7m12[27m 13 14  
+15 16 17 18 19 20 21  
+22 23 24 25 26 27 28  
+29 30 31              
+                      
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# cal 3 2020[5Pleardate "+Today is %d,%m,%y%nThe time now
+w is %H:%M:%S"[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# clear[K
+
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cdate "+Today is %d,%m,%y%nThe time now
+w is %H:%M:%S"[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# clear[K
+
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cal 10 1999[Kcal 3 2020date "+Today is %d,%m,%y%nThe time now
+w is %H:%M:%S"[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# clear[K
+
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cprintf --help[3Pman printfprintf --help[8Pcleardate "+Today is %d,%m,%y%nThe time now
+w is %H:%M:%S"[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# cal 3 2020[K
+
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kcal 10 2020
+    October 2020      
+Su Mo Tu We Th Fr Sa  
+             1  2  3  
+ 4  5  6  7  8  9 10  
+11 12 13 14 15 16 17  
+18 19 20 21 22 23 24  
+25 26 27 28 29 30 31  
+                      
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# cal 10 1999
+    October 1999      
+Su Mo Tu We Th Fr Sa  
+                1  2  
+ 3  4  5  6  7  8  9  
+10 11 12 13 14 15 16  
+17 18 19 20 21 22 23  
+24 25 26 27 28 29 30  
+31                    
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# clear
+[3J[H[2J]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# history
+    1  apt-get update
+    2  apt-get upgrade
+    3  wget
+    4  wget -O- https://raw.github.com/ajenti/ajenti/1.x/scripts/install-ubuntu.sh | sudo sh
+    5  apt update
+    6  apt install apache2
+    7  ufw app list
+    8  ufw allow 'Apache'
+    9  ufw status
+   10  ufw allow 'Apache'
+   11  ufw status
+   12  ufw allow 'OpenSSH'
+   13  ufw status
+   14  ufw app list
+   15  ufw --version
+   16  ufw --dry-run
+   17  ufw reload
+   18  ufw enable
+   19  ufw status
+   20  systemctl status apache2
+   21  hostname -I
+   22  curl -4 icanhazip.com
+   23  mkdir -p /var/www/kursovaya.xyz/html
+   24  chown -R $USER:$USER /var/www/kursovaya.xyz/html
+   25  chmod -R 755 /var/www/kursovaya.xyz
+   26  nano /var/www/kursovaya.xyz/html/index.html
+   27  nano /etc/apache2/sites-available/kursovaya.xyz.conf
+   28  a2ensite kursovaya.xyz.conf
+   29  systemctl reload apache2
+   30  a2ensite kursovaya.xyz.conf
+   31  a2dissite 000-default.conf
+   32  apache2ctl configtest
+   33  systemctl restart apache2
+   34  curl -4 icanhazip.com
+   35  nano /var/www/kursovaya.xyz/html/index.html
+   36  exit
+   37  systemctl status apache2
+   38  host -t A 
+   39  ping kursovaya.xyz
+   40  host -t A kursovaya.xyz
+   41  curl -4 icanhazip.com
+   42  nano /etc/apache2/sites-available/example.com.conf
+   43  ch /etc/apache2/sites-available/
+   44  ch /etc/apache2/sites-available
+   45  cd /etc/apache2/sites-available
+   46  ls
+   47  nano /etc/apache2/sites-available/kursovaya.xyz.conf
+   48  apache2ctl configtest
+   49  a2dissite 000-default.conf
+   50  a2ensite kursovaya.xyz.conf
+   51  systemctl restart apache2
+   52  systemctl status apache2
+   53  host -t A kursovaya.xyz
+   54  clear
+   55  version
+   56  ubuntu version
+   57  cls
+   58  clear
+   59  info
+   60  clear
+   61  host -t A kursovaya.xyz
+   62  tcpdump -i eth0
+   63  vlan
+   64  tcpdump -i vlan
+   65  tcpdump
+   66  clear
+   67  tcpdump
+   68  cleat
+   69  man tcpdump
+   70  tcpdump -i eth1
+   71  tcpdump -i eth2
+   72  tcpdump -i eth3
+   73  tcpdump
+   74  host -t A kursovaya.xyz
+   75  systemctl restart apache2
+   76  curl -4 icanhazip.com
+   77  ping 35.194.61.153
+   78  ping kursovaya.xyz
+   79  wireshark
+   80  clear
+   81  cd /home
+   82  ls
+   83  cd /home/ubuntu
+   84  ls
+   85  cd /home/room255131
+   86  clear
+   87  curl -4 icanhazip.com
+   88  host -t A kursovaya.xyz
+   89  exit
+   90  host -t A kursovaya.xyz
+   91  curl -4 icanhazip.com
+   92  host -t A kursovaya.xyz
+   93  curl -4 icanhazip.com
+   94  host -t A kursovaya.xyz
+   95  sustemctl reload apache2
+   96  exit
+   97  curl -4 A kursovaya.xyz
+   98  ping kursovaya.xyz
+   99  nano /var/www/example.com/html/index.html
+  100  nano /var/www/example.com/html/index.html
+  101  nano /var/www/kursovaya.xyz/html/index.html
+  102  host -t A www.kursovaya.xyz
+  103  sudo nano /etc/apache2/sites-available/kursovaya.xyz.conf
+  104  ping www.kursovaya.xyz
+  105  ping kursovaya.xyz
+  106  exit
+  107  ping kursovaya.xyz
+  108  host -t A kursovaya.xyz
+  109  curl -4 icanhazip.com
+  110  nano /var/www/kursovaya.xyz/html/index.html
+  111  apt-get install tshark
+  112  tshark -v
+  113  tshark help
+  114  tshark
+  115  exit
+  116  systemctl status apache2
+  117  clear
+  118  echo -e "Foreground in \e[31mRed"
+  119  -e "Foreground in \e[32mGreen"
+  120  clear
+  121  echo -e "Default \e[39mDefault"
+  122  clear
+  123  echo -e "Foreground in \e[31mRed"
+  124  echo -e "Foreground in \e[32mGreen"
+  125  echo -e "Foreground in \e[33mYellow"
+  126  echo -e "Foreground in \e[34mBlue"
+  127  echo -e "Default \e[39mDefault"
+  128  cd ~
+  129  clear
+  130  echo -e "Foreground in \e[31mRed"
+  131  echo -e "Foreground in \e[32mGreen"
+  132  echo -e "Foreground in \e[33mYellow"
+  133  echo -e "Foreground in \e[34mBlue"
+  134  echo -e "Default \e[39mDefault"
+  135  clear
+  136  echo -e "Background in \e[41mRed"
+  137  echo -e "Background in \e[42mGreen"
+  138  echo -e "Background in \e[43mYellow"
+  139  echo -e "Background in \e[44mBlue"
+  140  echo -e "Default \e[49mDefault"
+  141  clear
+  142  echo -e "Normal \e[1mBold"
+  143  echo -e "Normal \e[4mUnderlined"
+  144  echo -e "Normal \e[5mBlink"
+  145  echo -e "\e[0mNormal Text"
+  146  clear
+  147  date
+  148  cal 2 2020
+  149  clear
+  150  history
+  151  cal 2 2020
+  152  clear
+  153  man passwd
+  154  man 5 passwd
+  155  man -a passwd
+  156  info passwd
+  157  /usr/sbin/makewhatis
+  158  whatis passwd
+  159  clear
+  160  whatis passwd
+  161  clear
+  162  pwd
+  163  cd /root
+  164  clear
+  165  pwd
+  166  mkdir temp
+  167  cd temp
+  168  pwd
+  169  cd -
+  170  pwd
+  171  clear
+  172  git help
+  173  clear
+  174  wheare git
+  175  where git
+  176  man git
+  177  git --version
+  178  git update
+  179  git --help
+  180  clear
+  181  git --help
+  182  clear
+  183  echo "Hello world"
+  184  clear
+  185  echo -e "Foreground in \e[33mYellow" "Background in \e[44mBlue" "Foreground in yellow, Background in"
+  186  clear
+  187  echo -e "Default \e[39mDefault"
+  188  echo -e "Default \e[49mDefault"
+  189  exit
+  190  echo -e "Foreground in \e[33mYellow"
+  191  echo -e "Background in \e[44mBlue"
+  192  echoclear
+  193  clear
+  194  echo -e "Default \e[49mDefault"
+  195  echo -e "\e[0mNormal Text"
+  196  echo -e "Default \e[49mDefault"
+  197  echo -e "Default \e[39mDefault"
+  198  clear
+  199  echo -e "Foreground in \e[33mYellow"    "Background in \e[44mBlue" "Foreground in yellow, Background in" 
+  200  clear
+  201  echo -e "Default \e[39mDefault"
+  202  echo -e "Default \e[49mDefault"
+  203  clear
+  204  echo -e "Foreground in \e[33mYellow"    "Background in \e[44mBlue" "Foreground in yellow, Background in blue" 
+  205  clear
+  206  echo -e "Default \e[49mDefault"
+  207  echo -e "Default \e[39mDefault"
+  208  clear
+  209  echo -e "Foreground in \e[33mYellow"    "Background in \e[44mBlue" 
+  210  echo -e "Default \e[39mDefault"
+  211  echo -e "Default \e[49mDefault"
+  212  clear
+  213  cd ~
+  214  clear
+  215  echo -e "Foreground in \e[33mYellow"    "Background in \e[44mBlue" 
+  216  echo Foreground in yellow, Background in
+  217  blue
+  218  clear
+  219  echo -e "Default \e[49mDefault"
+  220  echo -e "Default \e[39mDefault"
+  221  clear
+  222  echo -e "Foreground in \e[33mYellow"    "Background in \e[44mBlue" 
+  223  echo Foreground in yellow, Background in blue
+  224  echo -e "Default \e[49mDefault"
+  225  echo -e "Default \e[39mDefault"
+  226  clear
+  227  echo -e "Normal \e[1mBold" Bold
+  228  echo -e "\e[0mNormal Text"
+  229  clear
+  230  echo -e "Normal \e[1mBold \e[4mUnderlined \e[5mBlink \e[0mNormal" 
+  231  clear
+  232  echo -e "Foreground in \e[33m         Background in \e[44m"
+  233  echo -e "Default \e[39mDefault"
+  234  echo -e "Default \e[49mDefault"
+  235  clear
+  236  echo -e Foreground in yellow, Background in
+  237  blueclear
+  238  clear
+  239  echo -e "Foreground in yellow, background in blue \e[33m \e[44m"
+  240  clear
+  241  cd~
+  242  echo -e "Default \e[49mDefault"
+  243  echo -e "Default \e[39mDefault"
+  244  cd ~
+  245  clear
+  246  echo -e " \e[33m \e[44m"
+  247  echo Foregroung in yellow, backgroung in blue
+  248  echo -e "Default \e[39mDefault"
+  249  echo -e "Default \e[49mDefault"
+  250  clear
+  251  echo -e " \e[33m \e[44m   djkdjkfjdfj"
+  252  clear
+  253  echo -e "Default \e[49mDefault"
+  254  echo -e "Default \e[39mDefault"
+  255  clear
+  256  echo -e " \e[33m \e[44m Foreground in yellow, backgroung in blue"
+  257  echo -e "Default \e[39mDefault"
+  258  echo -e "Default \e[49mDefault"
+  259  clear
+  260  echo -e " \e[33m \e[44m "
+  261  echo -e "Default \e[49mDefault"
+  262  echo -e "Default \e[39mDefault"
+  263  clear
+  264  echo -e " \e[33m \e[44m BlueBg YellowFg Bold Underlined Blink"
+  265  echo -e "Default \e[39mDefault"
+  266  echo -e "Default \e[49mDefault"
+  267  clear
+  268  echo -e " \e[33m \e[44m BlueBg YellowFg \e[1mBold \e[4Underlined \e[5mBlink"
+  269  echo -e "Default \e[49mDefault"
+  270  echo -e "Default \e[39mDefault"
+  271  echo -e "\e[0"
+  272  echo -e "\e[0m"
+  273  clear
+  274  echo -e " \e[33m \e[44m BlueBg YellowFg \e[1mBold \e[4mUnderlined \e[5mBlink"
+  275  echo -e "\e[0m"
+  276  clear
+  277  echo -e " \e[33m \e[44m BlueBg YellowFg \e[1mBold \e[0m \e[4mUnderlined \e[0m \e[5mBlink \e[0m"
+  278  clear
+  279  echo -e " \e[33m \e[44m BlueBg YellowFg \e[1mBold \e[0m \e[33m \e[44m \e[4mUnderlined \e[0m \e[33m \e[44m \e[5mBlink \e[0m"
+  280  clear
+  281  echo -e " \e[33m \e[44m BlueBg YellowFg \e[1mBold \e[0m \e[4mUnderlined \e[0m \e[5mBlink \e[0m"
+  282  clear
+  283  echo -e " \e[33m \e[44m BlueBg YellowFg \e[1mBold \e[4mUnderlined \e[5mBlink \e[0m"
+  284  clear
+  285  echo -e " \e[33m \e[44m BlueBg YellowFg \e[1mBold \e[0m\e[4mUnderlined\e[0m\e[5mBlink \e[0m"
+  286  echo -e " \e[33m \e[44m BlueBg YellowFg \e[1mBold \e[0m \e[33m \e[44m \e[4mUnderlined \e[0m \e[33m \e[44m \e[5mBlink \e[0m"
+  287  echo -e " \e[33m \e[44m BlueBg YellowFg \e[1mBold \e[0m\e[33m\e[44m\e[4mUnderlined \e[0m\e[33m\e[44m\e[5mBlink \e[0m"
+  288  clear
+  289  echo -e " \e[33m \e[44m BlueBg YellowFg \e[1mBold \e[0m\e[33m\e[44m\e[4mUnderlined \e[0m\e[33m\e[44m\e[5mBlink \e[0m"
+  290  clear
+  291  echo "Today is" date
+  292  echo "Today is" \e date
+  293  echo "Today is"  date
+  294  clear
+  295  man script
+  296  clear
+  297  man printf
+  298  clear
+  299  ls
+  300  cd root
+  301  pwd
+  302  cd /root
+  303  ls
+  304  cd /root/room255131@instance-1
+  305  cd /root/room255131
+  306  cd /etc
+  307  ls
+  308  cd ~
+  309  clear
+  310  git init
+  311  ls
+  312  git add README.txt
+  313  man git
+  314  clear
+  315  exit
+  316  clear
+  317  git --version
+  318  apt-get install git-core git-gui git-doc
+  319  git --version
+  320  clear
+  321  ssh-keygen -t rsa -C room255131@gmail.com
+  322  git config --global user.name Pavel Trashkov
+  323  git config --global user.email room255131@gmail.com
+  324  git config --global user.name pasha_wit
+  325  git config --global user.email room2551
+  326  git config --global user.email room255131@gmail.com
+  327  ssh -T git@github.com
+  328  git status
+  329  git init
+  330  git clone git@github.com:pasha_wit/TEST-REPO.git
+  331  git clone git@github.com:room255131/TEST-REPO.git
+  332  apt install git
+  333  git config --list
+  334  clear
+  335  git config --list
+  336  ls
+  337  clear
+  338  git clone git@github.com:pashawit/TEST-REPO.git
+  339  git config --global user.name pashawit
+  340  git config --list
+  341  clear
+  342  cat ~/.ssh/id_rsa.pub
+  343  git clone git@github.com:pashawit/
+  344  TEST-REPO.git
+  345  echo "# linux-labraboty-2020-rayofhope1" >> README.md
+  346  git init
+  347  git add README.md
+  348  git commit -m "first commit"
+  349  git remote add origin https://github.com/fpmibsulinux/linux-labraboty-2020-rayofhope1.git
+  350  echo "# linux-labraboty-2020-rayofhope1" >> README.md
+  351  git init
+  352  ll
+  353  git push -u origin master
+  354  ll
+  355  git clone https://github.com/fpmibsulinux/linux-labraboty-2020-rayofhope1.git
+  356  ll
+  357  clear
+  358  script -ttimelog4trashkov task4trashkov
+  359  echo -e "\e[33,44mForeground in Yellow, background in blue \e[0m"
+  360  clear
+  361  echo -e "\e[33;44mForeground in Yellow, background in blue \e[0m"
+  362  echo -e "Normal \e[1mBald \e[0;4mUnderlined \e[0;5mBlink \e[0mNormal"
+  363  echo -e "\e[33;44mBlueBg YellowFg \e[1mBold \e[0;33;44;4mUnderlined\e[0;33;44;5m Blink\e[0;33;44m Normal\e[0m"
+  364  clear
+  365  data
+  366  date
+  367  clear
+  368  printf
+  369  man printf
+  370  printf --help
+  371  clear
+  372  date "+Today is %d,%m,%y%nThe time now is %H:%M:%S"
+  373  cal 3 2020
+  374  cal 10 2020
+  375  cal 10 1999
+  376  clear
+  377  date "+Today is %d,%m,%y%nThe time now is %H:%M:%S"
+  378  clear
+  379  date "+Today is %d,%m,%y%nThe time now is %H:%M:%S"
+  380  clear
+  381  cal 3 2020
+  382  cal 10 2020
+  383  cal 10 1999
+  384  clear
+  385  history
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# echo -e[K[K[K[K[K[K[Kecho -e ""N"o"r"m"a"l" "\"e"["5"m"B"l"i"n"k" "\"e"["2"5"m"N"o"r" [A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cm"
+"
+a"l"
+[K[A]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# echo -e "Normal \e[5mBlink \e[25mNormal"
+Normal [5mBlink [25mNormal
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# echo -e "Normal \e[5mBlink \e[25mNormal"[C[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"e"["[1P\e["[1P\e["[1P\e["[1P\e["[1P\e["[1P\e["[1P\e["[Kecho -e "\e["0"m"N"o"r"m"a"l" "T"e"x"t"
+[0mNormal Text
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# echo -e "\e[0mNormal Text"Normal \e[5mBlink \e[25mNormal"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"\"e"["1";"3"1";"4"2"m" "B"o"l"d" "a"n"d" "R"e"d"F"g" "a"n"d" "G" [A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cr"
+"
+e"e"n"B"g" "]"[1P"\"e"["9"[1P"0"m"
+[1;31;42m Bold and RedFg and GreenBg [0m
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# clear
+[3J[H[2J]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# history
+    1  apt-get update
+    2  apt-get upgrade
+    3  wget
+    4  wget -O- https://raw.github.com/ajenti/ajenti/1.x/scripts/install-ubuntu.sh | sudo sh
+    5  apt update
+    6  apt install apache2
+    7  ufw app list
+    8  ufw allow 'Apache'
+    9  ufw status
+   10  ufw allow 'Apache'
+   11  ufw status
+   12  ufw allow 'OpenSSH'
+   13  ufw status
+   14  ufw app list
+   15  ufw --version
+   16  ufw --dry-run
+   17  ufw reload
+   18  ufw enable
+   19  ufw status
+   20  systemctl status apache2
+   21  hostname -I
+   22  curl -4 icanhazip.com
+   23  mkdir -p /var/www/kursovaya.xyz/html
+   24  chown -R $USER:$USER /var/www/kursovaya.xyz/html
+   25  chmod -R 755 /var/www/kursovaya.xyz
+   26  nano /var/www/kursovaya.xyz/html/index.html
+   27  nano /etc/apache2/sites-available/kursovaya.xyz.conf
+   28  a2ensite kursovaya.xyz.conf
+   29  systemctl reload apache2
+   30  a2ensite kursovaya.xyz.conf
+   31  a2dissite 000-default.conf
+   32  apache2ctl configtest
+   33  systemctl restart apache2
+   34  curl -4 icanhazip.com
+   35  nano /var/www/kursovaya.xyz/html/index.html
+   36  exit
+   37  systemctl status apache2
+   38  host -t A 
+   39  ping kursovaya.xyz
+   40  host -t A kursovaya.xyz
+   41  curl -4 icanhazip.com
+   42  nano /etc/apache2/sites-available/example.com.conf
+   43  ch /etc/apache2/sites-available/
+   44  ch /etc/apache2/sites-available
+   45  cd /etc/apache2/sites-available
+   46  ls
+   47  nano /etc/apache2/sites-available/kursovaya.xyz.conf
+   48  apache2ctl configtest
+   49  a2dissite 000-default.conf
+   50  a2ensite kursovaya.xyz.conf
+   51  systemctl restart apache2
+   52  systemctl status apache2
+   53  host -t A kursovaya.xyz
+   54  clear
+   55  version
+   56  ubuntu version
+   57  cls
+   58  clear
+   59  info
+   60  clear
+   61  host -t A kursovaya.xyz
+   62  tcpdump -i eth0
+   63  vlan
+   64  tcpdump -i vlan
+   65  tcpdump
+   66  clear
+   67  tcpdump
+   68  cleat
+   69  man tcpdump
+   70  tcpdump -i eth1
+   71  tcpdump -i eth2
+   72  tcpdump -i eth3
+   73  tcpdump
+   74  host -t A kursovaya.xyz
+   75  systemctl restart apache2
+   76  curl -4 icanhazip.com
+   77  ping 35.194.61.153
+   78  ping kursovaya.xyz
+   79  wireshark
+   80  clear
+   81  cd /home
+   82  ls
+   83  cd /home/ubuntu
+   84  ls
+   85  cd /home/room255131
+   86  clear
+   87  curl -4 icanhazip.com
+   88  host -t A kursovaya.xyz
+   89  exit
+   90  host -t A kursovaya.xyz
+   91  curl -4 icanhazip.com
+   92  host -t A kursovaya.xyz
+   93  curl -4 icanhazip.com
+   94  host -t A kursovaya.xyz
+   95  sustemctl reload apache2
+   96  exit
+   97  curl -4 A kursovaya.xyz
+   98  ping kursovaya.xyz
+   99  nano /var/www/example.com/html/index.html
+  100  nano /var/www/example.com/html/index.html
+  101  nano /var/www/kursovaya.xyz/html/index.html
+  102  host -t A www.kursovaya.xyz
+  103  sudo nano /etc/apache2/sites-available/kursovaya.xyz.conf
+  104  ping www.kursovaya.xyz
+  105  ping kursovaya.xyz
+  106  exit
+  107  ping kursovaya.xyz
+  108  host -t A kursovaya.xyz
+  109  curl -4 icanhazip.com
+  110  nano /var/www/kursovaya.xyz/html/index.html
+  111  apt-get install tshark
+  112  tshark -v
+  113  tshark help
+  114  tshark
+  115  exit
+  116  systemctl status apache2
+  117  clear
+  118  echo -e "Foreground in \e[31mRed"
+  119  -e "Foreground in \e[32mGreen"
+  120  clear
+  121  echo -e "Default \e[39mDefault"
+  122  clear
+  123  echo -e "Foreground in \e[31mRed"
+  124  echo -e "Foreground in \e[32mGreen"
+  125  echo -e "Foreground in \e[33mYellow"
+  126  echo -e "Foreground in \e[34mBlue"
+  127  echo -e "Default \e[39mDefault"
+  128  cd ~
+  129  clear
+  130  echo -e "Foreground in \e[31mRed"
+  131  echo -e "Foreground in \e[32mGreen"
+  132  echo -e "Foreground in \e[33mYellow"
+  133  echo -e "Foreground in \e[34mBlue"
+  134  echo -e "Default \e[39mDefault"
+  135  clear
+  136  echo -e "Background in \e[41mRed"
+  137  echo -e "Background in \e[42mGreen"
+  138  echo -e "Background in \e[43mYellow"
+  139  echo -e "Background in \e[44mBlue"
+  140  echo -e "Default \e[49mDefault"
+  141  clear
+  142  echo -e "Normal \e[1mBold"
+  143  echo -e "Normal \e[4mUnderlined"
+  144  echo -e "Normal \e[5mBlink"
+  145  echo -e "\e[0mNormal Text"
+  146  clear
+  147  date
+  148  cal 2 2020
+  149  clear
+  150  history
+  151  cal 2 2020
+  152  clear
+  153  man passwd
+  154  man 5 passwd
+  155  man -a passwd
+  156  info passwd
+  157  /usr/sbin/makewhatis
+  158  whatis passwd
+  159  clear
+  160  whatis passwd
+  161  clear
+  162  pwd
+  163  cd /root
+  164  clear
+  165  pwd
+  166  mkdir temp
+  167  cd temp
+  168  pwd
+  169  cd -
+  170  pwd
+  171  clear
+  172  git help
+  173  clear
+  174  wheare git
+  175  where git
+  176  man git
+  177  git --version
+  178  git update
+  179  git --help
+  180  clear
+  181  git --help
+  182  clear
+  183  echo "Hello world"
+  184  clear
+  185  echo -e "Foreground in \e[33mYellow" "Background in \e[44mBlue" "Foreground in yellow, Background in"
+  186  clear
+  187  echo -e "Default \e[39mDefault"
+  188  echo -e "Default \e[49mDefault"
+  189  exit
+  190  echo -e "Foreground in \e[33mYellow"
+  191  echo -e "Background in \e[44mBlue"
+  192  echoclear
+  193  clear
+  194  echo -e "Default \e[49mDefault"
+  195  echo -e "\e[0mNormal Text"
+  196  echo -e "Default \e[49mDefault"
+  197  echo -e "Default \e[39mDefault"
+  198  clear
+  199  echo -e "Foreground in \e[33mYellow"    "Background in \e[44mBlue" "Foreground in yellow, Background in" 
+  200  clear
+  201  echo -e "Default \e[39mDefault"
+  202  echo -e "Default \e[49mDefault"
+  203  clear
+  204  echo -e "Foreground in \e[33mYellow"    "Background in \e[44mBlue" "Foreground in yellow, Background in blue" 
+  205  clear
+  206  echo -e "Default \e[49mDefault"
+  207  echo -e "Default \e[39mDefault"
+  208  clear
+  209  echo -e "Foreground in \e[33mYellow"    "Background in \e[44mBlue" 
+  210  echo -e "Default \e[39mDefault"
+  211  echo -e "Default \e[49mDefault"
+  212  clear
+  213  cd ~
+  214  clear
+  215  echo -e "Foreground in \e[33mYellow"    "Background in \e[44mBlue" 
+  216  echo Foreground in yellow, Background in
+  217  blue
+  218  clear
+  219  echo -e "Default \e[49mDefault"
+  220  echo -e "Default \e[39mDefault"
+  221  clear
+  222  echo -e "Foreground in \e[33mYellow"    "Background in \e[44mBlue" 
+  223  echo Foreground in yellow, Background in blue
+  224  echo -e "Default \e[49mDefault"
+  225  echo -e "Default \e[39mDefault"
+  226  clear
+  227  echo -e "Normal \e[1mBold" Bold
+  228  echo -e "\e[0mNormal Text"
+  229  clear
+  230  echo -e "Normal \e[1mBold \e[4mUnderlined \e[5mBlink \e[0mNormal" 
+  231  clear
+  232  echo -e "Foreground in \e[33m         Background in \e[44m"
+  233  echo -e "Default \e[39mDefault"
+  234  echo -e "Default \e[49mDefault"
+  235  clear
+  236  echo -e Foreground in yellow, Background in
+  237  blueclear
+  238  clear
+  239  echo -e "Foreground in yellow, background in blue \e[33m \e[44m"
+  240  clear
+  241  cd~
+  242  echo -e "Default \e[49mDefault"
+  243  echo -e "Default \e[39mDefault"
+  244  cd ~
+  245  clear
+  246  echo -e " \e[33m \e[44m"
+  247  echo Foregroung in yellow, backgroung in blue
+  248  echo -e "Default \e[39mDefault"
+  249  echo -e "Default \e[49mDefault"
+  250  clear
+  251  echo -e " \e[33m \e[44m   djkdjkfjdfj"
+  252  clear
+  253  echo -e "Default \e[49mDefault"
+  254  echo -e "Default \e[39mDefault"
+  255  clear
+  256  echo -e " \e[33m \e[44m Foreground in yellow, backgroung in blue"
+  257  echo -e "Default \e[39mDefault"
+  258  echo -e "Default \e[49mDefault"
+  259  clear
+  260  echo -e " \e[33m \e[44m "
+  261  echo -e "Default \e[49mDefault"
+  262  echo -e "Default \e[39mDefault"
+  263  clear
+  264  echo -e " \e[33m \e[44m BlueBg YellowFg Bold Underlined Blink"
+  265  echo -e "Default \e[39mDefault"
+  266  echo -e "Default \e[49mDefault"
+  267  clear
+  268  echo -e " \e[33m \e[44m BlueBg YellowFg \e[1mBold \e[4Underlined \e[5mBlink"
+  269  echo -e "Default \e[49mDefault"
+  270  echo -e "Default \e[39mDefault"
+  271  echo -e "\e[0"
+  272  echo -e "\e[0m"
+  273  clear
+  274  echo -e " \e[33m \e[44m BlueBg YellowFg \e[1mBold \e[4mUnderlined \e[5mBlink"
+  275  echo -e "\e[0m"
+  276  clear
+  277  echo -e " \e[33m \e[44m BlueBg YellowFg \e[1mBold \e[0m \e[4mUnderlined \e[0m \e[5mBlink \e[0m"
+  278  clear
+  279  echo -e " \e[33m \e[44m BlueBg YellowFg \e[1mBold \e[0m \e[33m \e[44m \e[4mUnderlined \e[0m \e[33m \e[44m \e[5mBlink \e[0m"
+  280  clear
+  281  echo -e " \e[33m \e[44m BlueBg YellowFg \e[1mBold \e[0m \e[4mUnderlined \e[0m \e[5mBlink \e[0m"
+  282  clear
+  283  echo -e " \e[33m \e[44m BlueBg YellowFg \e[1mBold \e[4mUnderlined \e[5mBlink \e[0m"
+  284  clear
+  285  echo -e " \e[33m \e[44m BlueBg YellowFg \e[1mBold \e[0m\e[4mUnderlined\e[0m\e[5mBlink \e[0m"
+  286  echo -e " \e[33m \e[44m BlueBg YellowFg \e[1mBold \e[0m \e[33m \e[44m \e[4mUnderlined \e[0m \e[33m \e[44m \e[5mBlink \e[0m"
+  287  echo -e " \e[33m \e[44m BlueBg YellowFg \e[1mBold \e[0m\e[33m\e[44m\e[4mUnderlined \e[0m\e[33m\e[44m\e[5mBlink \e[0m"
+  288  clear
+  289  echo -e " \e[33m \e[44m BlueBg YellowFg \e[1mBold \e[0m\e[33m\e[44m\e[4mUnderlinScript started on 2020-03-12 19:42:47+0000
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# clear
+[3J[H[2J]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# history
+    1  apt-get update
+    2  apt-get upgrade
+    3  wget
+    4  wget -O- https://raw.github.com/ajenti/ajenti/1.x/scripts/install-ubuntu.sh | sudo sh
+    5  apt update
+    6  apt install apache2
+    7  ufw app list
+    8  ufw allow 'Apache'
+    9  ufw status
+   10  ufw allow 'Apache'
+   11  ufw status
+   12  ufw allow 'OpenSSH'
+   13  ufw status
+   14  ufw app list
+   15  ufw --version
+   16  ufw --dry-run
+   17  ufw reload
+   18  ufw enable
+   19  ufw status
+   20  systemctl status apache2
+   21  hostname -I
+   22  curl -4 icanhazip.com
+   23  mkdir -p /var/www/kursovaya.xyz/html
+   24  chown -R $USER:$USER /var/www/kursovaya.xyz/html
+   25  chmod -R 755 /var/www/kursovaya.xyz
+   26  nano /var/www/kursovaya.xyz/html/index.html
+   27  nano /etc/apache2/sites-available/kursovaya.xyz.conf
+   28  a2ensite kursovaya.xyz.conf
+   29  systemctl reload apache2
+   30  a2ensite kursovaya.xyz.conf
+   31  a2dissite 000-default.conf
+   32  apache2ctl configtest
+   33  systemctl restart apache2
+   34  curl -4 icanhazip.com
+   35  nano /var/www/kursovaya.xyz/html/index.html
+   36  exit
+   37  systemctl status apache2
+   38  host -t A 
+   39  ping kursovaya.xyz
+   40  host -t A kursovaya.xyz
+   41  curl -4 icanhazip.com
+   42  nano /etc/apache2/sites-available/example.com.conf
+   43  ch /etc/apache2/sites-available/
+   44  ch /etc/apache2/sites-available
+   45  cd /etc/apache2/sites-available
+   46  ls
+   47  nano /etc/apache2/sites-available/kursovaya.xyz.conf
+   48  apache2ctl configtest
+   49  a2dissite 000-default.conf
+   50  a2ensite kursovaya.xyz.conf
+   51  systemctl restart apache2
+   52  systemctl status apache2
+   53  host -t A kursovaya.xyz
+   54  clear
+   55  version
+   56  ubuntu version
+   57  cls
+   58  clear
+   59  info
+   60  clear
+   61  host -t A kursovaya.xyz
+   62  tcpdump -i eth0
+   63  vlan
+   64  tcpdump -i vlan
+   65  tcpdump
+   66  clear
+   67  tcpdump
+   68  cleat
+   69  man tcpdump
+   70  tcpdump -i eth1
+   71  tcpdump -i eth2
+   72  tcpdump -i eth3
+   73  tcpdump
+   74  host -t A kursovaya.xyz
+   75  systemctl restart apache2
+   76  curl -4 icanhazip.com
+   77  ping 35.194.61.153
+   78  ping kursovaya.xyz
+   79  wireshark
+   80  clear
+   81  cd /home
+   82  ls
+   83  cd /home/ubuntu
+   84  ls
+   85  cd /home/room255131
+   86  clear
+   87  curl -4 icanhazip.com
+   88  host -t A kursovaya.xyz
+   89  exit
+   90  host -t A kursovaya.xyz
+   91  curl -4 icanhazip.com
+   92  host -t A kursovaya.xyz
+   93  curl -4 icanhazip.com
+   94  host -t A kursovaya.xyz
+   95  sustemctl reload apache2
+   96  exit
+   97  curl -4 A kursovaya.xyz
+   98  ping kursovaya.xyz
+   99  nano /var/www/example.com/html/index.html
+  100  nano /var/www/example.com/html/index.html
+  101  nano /var/www/kursovaya.xyz/html/index.html
+  102  host -t A www.kursovaya.xyz
+  103  sudo nano /etc/apache2/sites-available/kursovaya.xyz.conf
+  104  ping www.kursovaya.xyz
+  105  ping kursovaya.xyz
+  106  exit
+  107  ping kursovaya.xyz
+  108  host -t A kursovaya.xyz
+  109  curl -4 icanhazip.com
+  110  nano /var/www/kursovaya.xyz/html/index.html
+  111  apt-get install tshark
+  112  tshark -v
+  113  tshark help
+  114  tshark
+  115  exit
+  116  systemctl status apache2
+  117  clear
+  118  echo -e "Foreground in \e[31mRed"
+  119  -e "Foreground in \e[32mGreen"
+  120  clear
+  121  echo -e "Default \e[39mDefault"
+  122  clear
+  123  echo -e "Foreground in \e[31mRed"
+  124  echo -e "Foreground in \e[32mGreen"
+  125  echo -e "Foreground in \e[33mYellow"
+  126  echo -e "Foreground in \e[34mBlue"
+  127  echo -e "Default \e[39mDefault"
+  128  cd ~
+  129  clear
+  130  echo -e "Foreground in \e[31mRed"
+  131  echo -e "Foreground in \e[32mGreen"
+  132  echo -e "Foreground in \e[33mYellow"
+  133  echo -e "Foreground in \e[34mBlue"
+  134  echo -e "Default \e[39mDefault"
+  135  clear
+  136  echo -e "Background in \e[41mRed"
+  137  echo -e "Background in \e[42mGreen"
+  138  echo -e "Background in \e[43mYellow"
+  139  echo -e "Background in \e[44mBlue"
+  140  echo -e "Default \e[49mDefault"
+  141  clear
+  142  echo -e "Normal \e[1mBold"
+  143  echo -e "Normal \e[4mUnderlined"
+  144  echo -e "Normal \e[5mBlink"
+  145  echo -e "\e[0mNormal Text"
+  146  clear
+  147  date
+  148  cal 2 2020
+  149  clear
+  150  history
+  151  cal 2 2020
+  152  clear
+  153  man passwd
+  154  man 5 passwd
+  155  man -a passwd
+  156  info passwd
+  157  /usr/sbin/makewhatis
+  158  whatis passwd
+  159  clear
+  160  whatis passwd
+  161  clear
+  162  pwd
+  163  cd /root
+  164  clear
+  165  pwd
+  166  mkdir temp
+  167  cd temp
+  168  pwd
+  169  cd -
+  170  pwd
+  171  clear
+  172  git help
+  173  clear
+  174  wheare git
+  175  where git
+  176  man git
+  177  git --version
+  178  git update
+  179  git --help
+  180  clear
+  181  git --help
+  182  clear
+  183  echo "Hello world"
+  184  clear
+  185  echo -e "Foreground in \e[33mYellow" "Background in \e[44mBlue" "Foreground in yellow, Background in"
+  186  clear
+  187  echo -e "Default \e[39mDefault"
+  188  echo -e "Default \e[49mDefault"
+  189  exit
+  190  echo -e "Foreground in \e[33mYellow"
+  191  echo -e "Background in \e[44mBlue"
+  192  echoclear
+  193  clear
+  194  echo -e "Default \e[49mDefault"
+  195  echo -e "\e[0mNormal Text"
+  196  echo -e "Default \e[49mDefault"
+  197  echo -e "Default \e[39mDefault"
+  198  clear
+  199  echo -e "Foreground in \e[33mYellow"    "Background in \e[44mBlue" "Foreground in yellow, Background in" 
+  200  clear
+  201  echo -e "Default \e[39mDefault"
+  202  echo -e "Default \e[49mDefault"
+  203  clear
+  204  echo -e "Foreground in \e[33mYellow"    "Background in \e[44mBlue" "Foreground in yellow, Background in blue" 
+  205  clear
+  206  echo -e "Default \e[49mDefault"
+  207  echo -e "Default \e[39mDefault"
+  208  clear
+  209  echo -e "Foreground in \e[33mYellow"    "Background in \e[44mBlue" 
+  210  echo -e "Default \e[39mDefault"
+  211  echo -e "Default \e[49mDefault"
+  212  clear
+  213  cd ~
+  214  clear
+  215  echo -e "Foreground in \e[33mYellow"    "Background in \e[44mBlue" 
+  216  echo Foreground in yellow, Background in
+  217  blue
+  218  clear
+  219  echo -e "Default \e[49mDefault"
+  220  echo -e "Default \e[39mDefault"
+  221  clear
+  222  echo -e "Foreground in \e[33mYellow"    "Background in \e[44mBlue" 
+  223  echo Foreground in yellow, Background in blue
+  224  echo -e "Default \e[49mDefault"
+  225  echo -e "Default \e[39mDefault"
+  226  clear
+  227  echo -e "Normal \e[1mBold" Bold
+  228  echo -e "\e[0mNormal Text"
+  229  clear
+  230  echo -e "Normal \e[1mBold \e[4mUnderlined \e[5mBlink \e[0mNormal" 
+  231  clear
+  232  echo -e "Foreground in \e[33m         Background in \e[44m"
+  233  echo -e "Default \e[39mDefault"
+  234  echo -e "Default \e[49mDefault"
+  235  clear
+  236  echo -e Foreground in yellow, Background in
+  237  blueclear
+  238  clear
+  239  echo -e "Foreground in yellow, background in blue \e[33m \e[44m"
+  240  clear
+  241  cd~
+  242  echo -e "Default \e[49mDefault"
+  243  echo -e "Default \e[39mDefault"
+  244  cd ~
+  245  clear
+  246  echo -e " \e[33m \e[44m"
+  247  echo Foregroung in yellow, backgroung in blue
+  248  echo -e "Default \e[39mDefault"
+  249  echo -e "Default \e[49mDefault"
+  250  clear
+  251  echo -e " \e[33m \e[44m   djkdjkfjdfj"
+  252  clear
+  253  echo -e "Default \e[49mDefault"
+  254  echo -e "Default \e[39mDefault"
+  255  clear
+  256  echo -e " \e[33m \e[44m Foreground in yellow, backgroung in blue"
+  257  echo -e "Default \e[39mDefault"
+  258  echo -e "Default \e[49mDefault"
+  259  clear
+  260  echo -e " \e[33m \e[44m "
+  261  echo -e "Default \e[49mDefault"
+  262  echo -e "Default \e[39mDefault"
+  263  clear
+  264  echo -e " \e[33m \e[44m BlueBg YellowFg Bold Underlined Blink"
+  265  echo -e "Default \e[39mDefault"
+  266  echo -e "Default \e[49mDefault"
+  267  clear
+  268  echo -e " \e[33m \e[44m BlueBg YellowFg \e[1mBold \e[4Underlined \e[5mBlink"
+  269  echo -e "Default \e[49mDefault"
+  270  echo -e "Default \e[39mDefault"
+  271  echo -e "\e[0"
+  272  echo -e "\e[0m"
+  273  clear
+  274  echo -e " \e[33m \e[44m BlueBg YellowFg \e[1mBold \e[4mUnderlined \e[5mBlink"
+  275  echo -e "\e[0m"
+  276  clear
+  277  echo -e " \e[33m \e[44m BlueBg YellowFg \e[1mBold \e[0m \e[4mUnderlined \e[0m \e[5mBlink \e[0m"
+  278  clear
+  279  echo -e " \e[33m \e[44m BlueBg YellowFg \e[1mBold \e[0m \e[33m \e[44m \e[4mUnderlined \e[0m \e[33m \e[44m \e[5mBlink \e[0m"
+  280  clear
+  281  echo -e " \e[33m \e[44m BlueBg YellowFg \e[1mBold \e[0m \e[4mUnderlined \e[0m \e[5mBlink \e[0m"
+  282  clear
+  283  echo -e " \e[33m \e[44m BlueBg YellowFg \e[1mBold \e[4mUnderlined \e[5mBlink \e[0m"
+  284  clear
+  285  echo -e " \e[33m \e[44m BlueBg YellowFg \e[1mBold \e[0m\e[4mUnderlined\e[0m\e[5mBlink \e[0m"
+  286  echo -e " \e[33m \e[44m BlueBg YellowFg \e[1mBold \e[0m \e[33m \e[44m \e[4mUnderlined \e[0m \e[33m \e[44m \e[5mBlink \e[0m"
+  287  echo -e " \e[33m \e[44m BlueBg YellowFg \e[1mBold \e[0m\e[33m\e[44m\e[4mUnderlined \e[0m\e[33m\e[44m\e[5mBlink \e[0m"
+  288  clear
+  289  echo -e " \e[33m \e[44m BlueBg YellowFg \e[1mBold \e[0m\e[33m\e[44m\e[4mUnderlined \e[0m\e[33m\e[44m\e[5mBlink \e[0m"
+  290  clear
+  291  echo "Today is" date
+  292  echo "Today is" \e date
+  293  echo "Today is"  date
+  294  clear
+  295  man script
+  296  clear
+  297  man printf
+  298  clear
+  299  ls
+  300  cd root
+  301  pwd
+  302  cd /root
+  303  ls
+  304  cd /root/room255131@instance-1
+  305  cd /root/room255131
+  306  cd /etc
+  307  ls
+  308  cd ~
+  309  clear
+  310  git init
+  311  ls
+  312  git add README.txt
+  313  man git
+  314  clear
+  315  exit
+  316  clear
+  317  git --version
+  318  apt-get install git-core git-gui git-doc
+  319  git --version
+  320  clear
+  321  ssh-keygen -t rsa -C room255131@gmail.com
+  322  git config --global user.name Pavel Trashkov
+  323  git config --global user.email room255131@gmail.com
+  324  git config --global user.name pasha_wit
+  325  git config --global user.email room2551
+  326  git config --global user.email room255131@gmail.com
+  327  ssh -T git@github.com
+  328  git status
+  329  git init
+  330  git clone git@github.com:pasha_wit/TEST-REPO.git
+  331  git clone git@github.com:room255131/TEST-REPO.git
+  332  apt install git
+  333  git config --list
+  334  clear
+  335  git config --list
+  336  ls
+  337  clear
+  338  git clone git@github.com:pashawit/TEST-REPO.git
+  339  git config --global user.name pashawit
+  340  git config --list
+  341  clear
+  342  cat ~/.ssh/id_rsa.pub
+  343  git clone git@github.com:pashawit/
+  344  TEST-REPO.git
+  345  echo "# linux-labraboty-2020-rayofhope1" >> README.md
+  346  git init
+  347  git add README.md
+  348  git commit -m "first commit"
+  349  git remote add origin https://github.com/fpmibsulinux/linux-labraboty-2020-rayofhope1.git
+  350  echo "# linux-labraboty-2020-rayofhope1" >> README.md
+  351  git init
+  352  ll
+  353  git push -u origin master
+  354  ll
+  355  git clone https://github.com/fpmibsulinux/linux-labraboty-2020-rayofhope1.git
+  356  ll
+  357  clear
+  358  script -ttimelog4trashkov task4trashkov
+  359  echo -e "\e[33,44mForeground in Yellow, background in blue \e[0m"
+  360  clear
+  361  echo -e "\e[33;44mForeground in Yellow, background in blue \e[0m"
+  362  echo -e "Normal \e[1mBald \e[0;4mUnderlined \e[0;5mBlink \e[0mNormal"
+  363  echo -e "\e[33;44mBlueBg YellowFg \e[1mBold \e[0;33;44;4mUnderlined\e[0;33;44;5m Blink\e[0;33;44m Normal\e[0m"
+  364  clear
+  365  data
+  366  date
+  367  clear
+  368  printf
+  369  man printf
+  370  printf --help
+  371  clear
+  372  date "+Today is %d,%m,%y%nThe time now is %H:%M:%S"
+  373  cal 3 2020
+  374  cal 10 2020
+  375  cal 10 1999
+  376  clear
+  377  date "+Today is %d,%m,%y%nThe time now is %H:%M:%S"
+  378  clear
+  379  date "+Today is %d,%m,%y%nThe time now is %H:%M:%S"
+  380  clear
+  381  cal 3 2020
+  382  cal 10 2020
+  383  cal 10 1999
+  384  clear
+  385  history
+  386  echo -e "Normal \e[5mBlink \e[25mNormal"
+  387  echo -e "\e[0mNormal Text"
+  388  echo -e "\e[1;31;42m Bold and RedFg and GreenBg \e[0m"
+  389  clear
+  390  history
+  391  echo -e "Normal \e[5mBlink \e[25mNormal"
+  392  echo -e "\e[0mNormal Text"
+  393  clear
+  394  ll
+  395  rm task4trashkov
+  396  rm timelog4trashkov
+  397  ll
+  398  clear
+  399  script -ttimelog4trashkov task4trashkov 
+  400  exit
+  401  clear
+  402  history
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# echo[K[K[K[K
+[12P(reverse-i-search)`':[C
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# history[K[K[K[K[K[K[Kclear[K[K[K[K[Kexitscript -ttimelog4trashkov task4trashkov 
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[K[3Pllrm timelog4trashkov[3Pask4trashkov[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K!388 [K[K[K[K[Kecho[K[K[K[K!388[C[C[C 1
+echo -e "\e[1;31;42m Bold and RedFg and GreenBg \e[0m" 1
+[1;31;42m Bold and RedFg and GreenBg [0m 1
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# echo -e "\e[1;31;42m Bold and RedFg and Gre
+eenBg \e[0m" 1[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [K
+
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C!388[C[C[C[C && echp[Ko -e ""\"e"["4"4"m"
+echo -e "\e[1;31;42m Bold and RedFg and GreenBg \e[0m" && echo -e "\e[44m"
+[1;31;42m Bold and RedFg and GreenBg [0m
+[44m
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131#  echo -e ""\"e"["0"m"
+[0m
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# echo -e "\e[1;31;42m Bold and RedFg and Gre
+eenBg \e[0m" && echo -e "\e[44m"
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cm Bold and RedFg and Gree[1P[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C4m Bold and RedFg and Gre[1@e[A
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho -e "\e[1;31;44m Bold and RedFg and Gre
+eenBg \e[0m" && echo -e "\e[44m"[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K
+[1;31;44m Bold and RedFg and GreenBg [0m
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# clear
+[3J[H[2J]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# history
+    1  apt-get update
+    2  apt-get upgrade
+    3  wget
+    4  wget -O- https://raw.github.com/ajenti/ajenti/1.x/scripts/install-ubuntu.sh | sudo sh
+    5  apt update
+    6  apt install apache2
+    7  ufw app list
+    8  ufw allow 'Apache'
+    9  ufw status
+   10  ufw allow 'Apache'
+   11  ufw status
+   12  ufw allow 'OpenSSH'
+   13  ufw status
+   14  ufw app list
+   15  ufw --version
+   16  ufw --dry-run
+   17  ufw reload
+   18  ufw enable
+   19  ufw status
+   20  systemctl status apache2
+   21  hostname -I
+   22  curl -4 icanhazip.com
+   23  mkdir -p /var/www/kursovaya.xyz/html
+   24  chown -R $USER:$USER /var/www/kursovaya.xyz/html
+   25  chmod -R 755 /var/www/kursovaya.xyz
+   26  nano /var/www/kursovaya.xyz/html/index.html
+   27  nano /etc/apache2/sites-available/kursovaya.xyz.conf
+   28  a2ensite kursovaya.xyz.conf
+   29  systemctl reload apache2
+   30  a2ensite kursovaya.xyz.conf
+   31  a2dissite 000-default.conf
+   32  apache2ctl configtest
+   33  systemctl restart apache2
+   34  curl -4 icanhazip.com
+   35  nano /var/www/kursovaya.xyz/html/index.html
+   36  exit
+   37  systemctl status apache2
+   38  host -t A 
+   39  ping kursovaya.xyz
+   40  host -t A kursovaya.xyz
+   41  curl -4 icanhazip.com
+   42  nano /etc/apache2/sites-available/example.com.conf
+   43  ch /etc/apache2/sites-available/
+   44  ch /etc/apache2/sites-available
+   45  cd /etc/apache2/sites-available
+   46  ls
+   47  nano /etc/apache2/sites-available/kursovaya.xyz.conf
+   48  apache2ctl configtest
+   49  a2dissite 000-default.conf
+   50  a2ensite kursovaya.xyz.conf
+   51  systemctl restart apache2
+   52  systemctl status apache2
+   53  host -t A kursovaya.xyz
+   54  clear
+   55  version
+   56  ubuntu version
+   57  cls
+   58  clear
+   59  info
+   60  clear
+   61  host -t A kursovaya.xyz
+   62  tcpdump -i eth0
+   63  vlan
+   64  tcpdump -i vlan
+   65  tcpdump
+   66  clear
+   67  tcpdump
+   68  cleat
+   69  man tcpdump
+   70  tcpdump -i eth1
+   71  tcpdump -i eth2
+   72  tcpdump -i eth3
+   73  tcpdump
+   74  host -t A kursovaya.xyz
+   75  systemctl restart apache2
+   76  curl -4 icanhazip.com
+   77  ping 35.194.61.153
+   78  ping kursovaya.xyz
+   79  wireshark
+   80  clear
+   81  cd /home
+   82  ls
+   83  cd /home/ubuntu
+   84  ls
+   85  cd /home/room255131
+   86  clear
+   87  curl -4 icanhazip.com
+   88  host -t A kursovaya.xyz
+   89  exit
+   90  host -t A kursovaya.xyz
+   91  curl -4 icanhazip.com
+   92  host -t A kursovaya.xyz
+   93  curl -4 icanhazip.com
+   94  host -t A kursovaya.xyz
+   95  sustemctl reload apache2
+   96  exit
+   97  curl -4 A kursovaya.xyz
+   98  ping kursovaya.xyz
+   99  nano /var/www/example.com/html/index.html
+  100  nano /var/www/example.com/html/index.html
+  101  nano /var/www/kursovaya.xyz/html/index.html
+  102  host -t A www.kursovaya.xyz
+  103  sudo nano /etc/apache2/sites-available/kursovaya.xyz.conf
+  104  ping www.kursovaya.xyz
+  105  ping kursovaya.xyz
+  106  exit
+  107  ping kursovaya.xyz
+  108  host -t A kursovaya.xyz
+  109  curl -4 icanhazip.com
+  110  nano /var/www/kursovaya.xyz/html/index.html
+  111  apt-get install tshark
+  112  tshark -v
+  113  tshark help
+  114  tshark
+  115  exit
+  116  systemctl status apache2
+  117  clear
+  118  echo -e "Foreground in \e[31mRed"
+  119  -e "Foreground in \e[32mGreen"
+  120  clear
+  121  echo -e "Default \e[39mDefault"
+  122  clear
+  123  echo -e "Foreground in \e[31mRed"
+  124  echo -e "Foreground in \e[32mGreen"
+  125  echo -e "Foreground in \e[33mYellow"
+  126  echo -e "Foreground in \e[34mBlue"
+  127  echo -e "Default \e[39mDefault"
+  128  cd ~
+  129  clear
+  130  echo -e "Foreground in \e[31mRed"
+  131  echo -e "Foreground in \e[32mGreen"
+  132  echo -e "Foreground in \e[33mYellow"
+  133  echo -e "Foreground in \e[34mBlue"
+  134  echo -e "Default \e[39mDefault"
+  135  clear
+  136  echo -e "Background in \e[41mRed"
+  137  echo -e "Background in \e[42mGreen"
+  138  echo -e "Background in \e[43mYellow"
+  139  echo -e "Background in \e[44mBlue"
+  140  echo -e "Default \e[49mDefault"
+  141  clear
+  142  echo -e "Normal \e[1mBold"
+  143  echo -e "Normal \e[4mUnderlined"
+  144  echo -e "Normal \e[5mBlink"
+  145  echo -e "\e[0mNormal Text"
+  146  clear
+  147  date
+  148  cal 2 2020
+  149  clear
+  150  history
+  151  cal 2 2020
+  152  clear
+  153  man passwd
+  154  man 5 passwd
+  155  man -a passwd
+  156  info passwd
+  157  /usr/sbin/makewhatis
+  158  whatis passwd
+  159  clear
+  160  whatis passwd
+  161  clear
+  162  pwd
+  163  cd /root
+  164  clear
+  165  pwd
+  166  mkdir temp
+  167  cd temp
+  168  pwd
+  169  cd -
+  170  pwd
+  171  clear
+  172  git help
+  173  clear
+  174  wheare git
+  175  where git
+  176  man git
+  177  git --version
+  178  git update
+  179  git --help
+  180  clear
+  181  git --help
+  182  clear
+  183  echo "Hello world"
+  184  clear
+  185  echo -e "Foreground in \e[33mYellow" "Background in \e[44mBlue" "Foreground in yellow, Background in"
+  186  clear
+  187  echo -e "Default \e[39mDefault"
+  188  echo -e "Default \e[49mDefault"
+  189  exit
+  190  echo -e "Foreground in \e[33mYellow"
+  191  echo -e "Background in \e[44mBlue"
+  192  echoclear
+  193  clear
+  194  echo -e "Default \e[49mDefault"
+  195  echo -e "\e[0mNormal Text"
+  196  echo -e "Default \e[49mDefault"
+  197  echo -e "Default \e[39mDefault"
+  198  clear
+  199  echo -e "Foreground in \e[33mYellow"    "Background in \e[44mBlue" "Foreground in yellow, Background in" 
+  200  clear
+  201  echo -e "Default \e[39mDefault"
+  202  echo -e "Default \e[49mDefault"
+  203  clear
+  204  echo -e "Foreground in \e[33mYellow"    "Background in \e[44mBlue" "Foreground in yellow, Background in blue" 
+  205  clear
+  206  echo -e "Default \e[49mDefault"
+  207  echo -e "Default \e[39mDefault"
+  208  clear
+  209  echo -e "Foreground in \e[33mYellow"    "Background in \e[44mBlue" 
+  210  echo -e "Default \e[39mDefault"
+  211  echo -e "Default \e[49mDefault"
+  212  clear
+  213  cd ~
+  214  clear
+  215  echo -e "Foreground in \e[33mYellow"    "Background in \e[44mBlue" 
+  216  echo Foreground in yellow, Background in
+  217  blue
+  218  clear
+  219  echo -e "Default \e[49mDefault"
+  220  echo -e "Default \e[39mDefault"
+  221  clear
+  222  echo -e "Foreground in \e[33mYellow"    "Background in \e[44mBlue" 
+  223  echo Foreground in yellow, Background in blue
+  224  echo -e "Default \e[49mDefault"
+  225  echo -e "Default \e[39mDefault"
+  226  clear
+  227  echo -e "Normal \e[1mBold" Bold
+  228  echo -e "\e[0mNormal Text"
+  229  clear
+  230  echo -e "Normal \e[1mBold \e[4mUnderlined \e[5mBlink \e[0mNormal" 
+  231  clear
+  232  echo -e "Foreground in \e[33m         Background in \e[44m"
+  233  echo -e "Default \e[39mDefault"
+  234  echo -e "Default \e[49mDefault"
+  235  clear
+  236  echo -e Foreground in yellow, Background in
+  237  blueclear
+  238  clear
+  239  echo -e "Foreground in yellow, background in blue \e[33m \e[44m"
+  240  clear
+  241  cd~
+  242  echo -e "Default \e[49mDefault"
+  243  echo -e "Default \e[39mDefault"
+  244  cd ~
+  245  clear
+  246  echo -e " \e[33m \e[44m"
+  247  echo Foregroung in yellow, backgroung in blue
+  248  echo -e "Default \e[39mDefault"
+  249  echo -e "Default \e[49mDefault"
+  250  clear
+  251  echo -e " \e[33m \e[44m   djkdjkfjdfj"
+  252  clear
+  253  echo -e "Default \e[49mDefault"
+  254  echo -e "Default \e[39mDefault"
+  255  clear
+  256  echo -e " \e[33m \e[44m Foreground in yellow, backgroung in blue"
+  257  echo -e "Default \e[39mDefault"
+  258  echo -e "Default \e[49mDefault"
+  259  clear
+  260  echo -e " \e[33m \e[44m "
+  261  echo -e "Default \e[49mDefault"
+  262  echo -e "Default \e[39mDefault"
+  263  clear
+  264  echo -e " \e[33m \e[44m BlueBg YellowFg Bold Underlined Blink"
+  265  echo -e "Default \e[39mDefault"
+  266  echo -e "Default \e[49mDefault"
+  267  clear
+  268  echo -e " \e[33m \e[44m BlueBg YellowFg \e[1mBold \e[4Underlined \e[5mBlink"
+  269  echo -e "Default \e[49mDefault"
+  270  echo -e "Default \e[39mDefault"
+  271  echo -e "\e[0"
+  272  echo -e "\e[0m"
+  273  clear
+  274  echo -e " \e[33m \e[44m BlueBg YellowFg \e[1mBold \e[4mUnderlined \e[5mBlink"
+  275  echo -e "\e[0m"
+  276  clear
+  277  echo -e " \e[33m \e[44m BlueBg YellowFg \e[1mBold \e[0m \e[4mUnderlined \e[0m \e[5mBlink \e[0m"
+  278  clear
+  279  echo -e " \e[33m \e[44m BlueBg YellowFg \e[1mBold \e[0m \e[33m \e[44m \e[4mUnderlined \e[0m \e[33m \e[44m \e[5mBlink \e[0m"
+  280  clear
+  281  echo -e " \e[33m \e[44m BlueBg YellowFg \e[1mBold \e[0m \e[4mUnderlined \e[0m \e[5mBlink \e[0m"
+  282  clear
+  283  echo -e " \e[33m \e[44m BlueBg YellowFg \e[1mBold \e[4mUnderlined \e[5mBlink \e[0m"
+  284  clear
+  285  echo -e " \e[33m \e[44m BlueBg YellowFg \e[1mBold \e[0m\e[4mUnderlined\e[0m\e[5mBlink \e[0m"
+  286  echo -e " \e[33m \e[44m BlueBg YellowFg \e[1mBold \e[0m \e[33m \e[44m \e[4mUnderlined \e[0m \e[33m \e[44m \e[5mBlink \e[0m"
+  287  echo -e " \e[33m \e[44m BlueBg YellowFg \e[1mBold \e[0m\e[33m\e[44m\e[4mUnderlined \e[0m\e[33m\e[44m\e[5mBlink \e[0m"
+  288  clear
+  289  echo -e " \e[33m \e[44m BlueBg YellowFg \e[1mBold \e[0m\e[33m\e[44m\e[4mUnderlined \e[0m\e[33m\e[44m\e[5mBlink \e[0m"
+  290  clear
+  291  echo "Today is" date
+  292  echo "Today is" \e date
+  293  echo "Today is"  date
+  294  clear
+  295  man script
+  296  clear
+  297  man printf
+  298  clear
+  299  ls
+  300  cd root
+  301  pwd
+  302  cd /root
+  303  ls
+  304  cd /root/room255131@instance-1
+  305  cd /root/room255131
+  306  cd /etc
+  307  ls
+  308  cd ~
+  309  clear
+  310  git init
+  311  ls
+  312  git add README.txt
+  313  man git
+  314  clear
+  315  exit
+  316  clear
+  317  git --version
+  318  apt-get install git-core git-gui git-doc
+  319  git --version
+  320  clear
+  321  ssh-keygen -t rsa -C room255131@gmail.com
+  322  git config --global user.name Pavel Trashkov
+  323  git config --global user.email room255131@gmail.com
+  324  git config --global user.name pasha_wit
+  325  git config --global user.email room2551
+  326  git config --global user.email room255131@gmail.com
+  327  ssh -T git@github.com
+  328  git status
+  329  git init
+  330  git clone git@github.com:pasha_wit/TEST-REPO.git
+  331  git clone git@github.com:room255131/TEST-REPO.git
+  332  apt install git
+  333  git config --list
+  334  clear
+  335  git config --list
+  336  ls
+  337  clear
+  338  git clone git@github.com:pashawit/TEST-REPO.git
+  339  git config --global user.name pashawit
+  340  git config --list
+  341  clear
+  342  cat ~/.ssh/id_rsa.pub
+  343  git clone git@github.com:pashawit/
+  344  TEST-REPO.git
+  345  echo "# linux-labraboty-2020-rayofhope1" >> README.md
+  346  git init
+  347  git add README.md
+  348  git commit -m "first commit"
+  349  git remote add origin https://github.com/fpmibsulinux/linux-labraboty-2020-rayofhope1.git
+  350  echo "# linux-labraboty-2020-rayofhope1" >> README.md
+  351  git init
+  352  ll
+  353  git push -u origin master
+  354  ll
+  355  git clone https://github.com/fpmibsulinux/linux-labraboty-2020-rayofhope1.git
+  356  ll
+  357  clear
+  358  script -ttimelog4trashkov task4trashkov
+  359  echo -e "\e[33,44mForeground in Yellow, background in blue \e[0m"
+  360  clear
+  361  echo -e "\e[33;44mForeground in Yellow, background in blue \e[0m"
+  362  echo -e "Normal \e[1mBald \e[0;4mUnderlined \e[0;5mBlink \e[0mNormal"
+  363  echo -e "\e[33;44mBlueBg YellowFg \e[1mBold \e[0;33;44;4mUnderlined\e[0;33;44;5m Blink\e[0;33;44m Normal\e[0m"
+  364  clear
+  365  data
+  366  date
+  367  clear
+  368  printf
+  369  man printf
+  370  printf --help
+  371  clear
+  372  date "+Today is %d,%m,%y%nThe time now is %H:%M:%S"
+  373  cal 3 2020
+  374  cal 10 2020
+  375  cal 10 1999
+  376  clear
+  377  date "+Today is %d,%m,%y%nThe time now is %H:%M:%S"
+  378  clear
+  379  date "+Today is %d,%m,%y%nThe time now is %H:%M:%S"
+  380  clear
+  381  cal 3 2020
+  382  cal 10 2020
+  383  cal 10 1999
+  384  clear
+  385  history
+  386  echo -e "Normal \e[5mBlink \e[25mNormal"
+  387  echo -e "\e[0mNormal Text"
+  388  echo -e "\e[1;31;42m Bold and RedFg and GreenBg \e[0m"
+  389  clear
+  390  history
+  391  echo -e "Normal \e[5mBlink \e[25mNormal"
+  392  echo -e "\e[0mNormal Text"
+  393  clear
+  394  ll
+  395  rm task4trashkov
+  396  rm timelog4trashkov
+  397  ll
+  398  clear
+  399  script -ttimelog4trashkov task4trashkov 
+  400  exit
+  401* 
+  402* 
+  403  echo -e "\e[1;31;42m Bold and RedFg and GreenBg \e[0m" 1
+  404  echo -e "\e[1;31;42m Bold and RedFg and GreenBg \e[0m" && echo -e "\e[44m"
+  405  echo -e "\e[1;31;44m Bold and RedFg and GreenBg \e[0m"
+  406  clear
+  407  history
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# clear
+[3J[H[2J]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# ![Kcccccc[K[Kccc[Kccccccccccccccc[K[K[K[K[K[K[K[K[K[K[K[K[K
+
+Command 'cc' not found, but can be installed with:
+
+apt install gcc            
+apt install clang          
+apt install pentium-builder
+apt install tcc            
+
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# clear
+[3J[H[2J]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# !405
+echo -e "\e[1;31;44m Bold and RedFg and GreenBg \e[0m"
+[1;31;44m Bold and RedFg and GreenBg [0m
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# man printf
+[?1049h[22;0;0t[?1h=
+PRINTF(1)                      User Commands                     PRINTF(1)[m
+[m
+[1mNAME[0m[m
+       printf - format and print data[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mprintf[0m [4mFORMAT[24m [[4mARGUMENT[24m]...[m
+       [1mprintf[0m [4mOPTION[24m[m
+[m
+[1mDESCRIPTION[0m[m
+       Print  ARGUMENT(s)  according  to  FORMAT,  or execute according to[m
+       OPTION:[m
+[m
+       [1m--help[0m display this help and exit[m
+[m
+       [1m--version[0m[m
+              output version information and exit[m
+[m
+       FORMAT controls the output as in C printf.   Interpreted  sequences[m
+       are:[m
+[m
+       \"     double quote[m
+[m
+       \\     backslash[m
+[m
+       \a     alert (BEL)[m
+[m
+       \b     backspace[m
+[7m Manual page printf(1) line 1 (press h for help or q to quit)[27m[K
+[K[?1l>[?1049l[23;0;0t]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# man printf3 printf[1@ 
+No manual entry for printf in section 3
+See 'man 7 undocumented' for help when manual pages are not available.
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# man 3 passwd
+No manual entry for passwd in section 3
+See 'man 7 undocumented' for help when manual pages are not available.
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# clear
+[3J[H[2J]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# man 5 passwd
+[?1049h[22;0;0t[?1h=
+PASSWD(5)              File Formats and Conversions              PASSWD(5)[m
+[m
+[1mNAME[0m[m
+       passwd - the password file[m
+[m
+[1mDESCRIPTION[0m[m
+       /etc/passwd contains one line for each user account, with seven[m
+       fields delimited by colons (“:”). These fields are:[m
+[m
+       ·   login name[m
+[m
+       ·   optional encrypted password[m
+[m
+       ·   numerical user ID[m
+[m
+       ·   numerical group ID[m
+[m
+       ·   user name or comment field[m
+[m
+       ·   user home directory[m
+[m
+       ·   optional user command interpreter[m
+[m
+       The encrypted password field may be blank, in which case no[m
+       password is required to authenticate as the specified login name.[m
+       However, some applications which read the /etc/passwd file may[m
+       decide not to permit [4many[24m access at all if the [4mpassword[24m field is[m
+       blank. If the [4mpassword[24m field is a lower-case “x”, then the[m
+[7m Manual page passwd(5) line 1 (press h for help or q to quit)[27m[K
+[K[?1l>[?1049l[23;0;0t]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# man 3 printf
+No manual entry for printf in section 3
+See 'man 7 undocumented' for help when manual pages are not available.
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# man 7 undo[K[K[K[Kprintf
+No manual entry for printf in section 7
+See 'man 7 undocumented' for help when manual pages are not available.
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# clear
+[3J[H[2J]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# man 3 printf
+No manual entry for printf in section 3
+See 'man 7 undocumented' for help when manual pages are not available.
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# man -a printf
+[?1049h[22;0;0t[?1h=
+PRINTF(1)                      User Commands                     PRINTF(1)[m
+[m
+[1mNAME[0m[m
+       printf - format and print data[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mprintf[0m [4mFORMAT[24m [[4mARGUMENT[24m]...[m
+       [1mprintf[0m [4mOPTION[24m[m
+[m
+[1mDESCRIPTION[0m[m
+       Print  ARGUMENT(s)  according  to  FORMAT,  or execute according to[m
+       OPTION:[m
+[m
+       [1m--help[0m display this help and exit[m
+[m
+       [1m--version[0m[m
+              output version information and exit[m
+[m
+       FORMAT controls the output as in C printf.   Interpreted  sequences[m
+       are:[m
+[m
+       \"     double quote[m
+[m
+       \\     backslash[m
+[m
+       \a     alert (BEL)[m
+[m
+       \b     backspace[m
+[7m Manual page printf(1) line 1 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page printf(1) line 2 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       \c     produce no further output[m
+[7m Manual page printf(1) line 3 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page printf(1) line 4 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       \e     escape[m
+[7m Manual page printf(1) line 5 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page printf(1) line 6 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       \f     form feed[m
+[7m Manual page printf(1) line 7 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page printf(1) line 8 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       \n     new line[m
+[7m Manual page printf(1) line 9 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page printf(1) line 10 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       \r     carriage return[m
+[7m Manual page printf(1) line 11 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page printf(1) line 12 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       \t     horizontal tab[m
+[7m Manual page printf(1) line 13 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page printf(1) line 14 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       \v     vertical tab[m
+[7m Manual page printf(1) line 15 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page printf(1) line 16 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       \NNN   byte with octal value NNN (1 to 3 digits)[m
+[7m Manual page printf(1) line 17 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page printf(1) line 18 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       \xHH   byte with hexadecimal value HH (1 to 2 digits)[m
+[7m Manual page printf(1) line 19 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page printf(1) line 20 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       \uHHHH Unicode  (ISO/IEC  10646)  character  with hex value HHHH (4[m
+[7m Manual page printf(1) line 21 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              digits)[m
+[7m Manual page printf(1) line 22 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page printf(1) line 23 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       \UHHHHHHHH[m
+[7m Manual page printf(1) line 24 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              Unicode character with hex value HHHHHHHH (8 digits)[m
+[7m Manual page printf(1) line 25 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page printf(1) line 26 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       %%     a single %[m
+[7m Manual page printf(1) line 27 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page printf(1) line 28 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       %b     ARGUMENT as a string with '\'  escapes  interpreted,  except[m
+[7m Manual page printf(1) line 29 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              that octal escapes are of the form \0 or \0NNN[m
+[7m Manual page printf(1) line 30 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page printf(1) line 31 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       %q     ARGUMENT  is printed in a format that can be reused as shell[m
+[7m Manual page printf(1) line 32 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              input, escaping non-printable characters with  the  proposed[m
+[7m Manual page printf(1) line 33 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K              POSIX $'' syntax.[m
+[7m Manual page printf(1) line 34 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page printf(1) line 35 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       and  all  C format specifications ending with one of diouxXfeEgGcs,[m
+[7m Manual page printf(1) line 36 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       with ARGUMENTs converted to proper type first.  Variable widths are[m
+[7m Manual page printf(1) line 37 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       handled.[m
+[7m Manual page printf(1) line 38 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page printf(1) line 39 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       NOTE:  your shell may have its own version of printf, which usually[m
+[7m Manual page printf(1) line 40 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       supersedes the  version  described  here.   Please  refer  to  your[m
+[7m Manual page printf(1) line 41 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       shell's documentation for details about the options it supports.[m
+[7m Manual page printf(1) line 42 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page printf(1) line 43 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[1mAUTHOR[0m[m
+[7m Manual page printf(1) line 44 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       Written by David MacKenzie.[m
+[7m Manual page printf(1) line 45 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page printf(1) line 46 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[1mREPORTING[0m [1mBUGS[0m[m
+[7m Manual page printf(1) line 47 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       GNU coreutils online help: <http://www.gnu.org/software/coreutils/>[m
+[7m Manual page printf(1) line 48 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       Report   printf   translation   bugs   to   <http://translationpro‐[m
+[7m Manual page printf(1) line 49 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       ject.org/team/>[m
+[7m Manual page printf(1) line 50 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page printf(1) line 51 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[1mCOPYRIGHT[0m[m
+[7m Manual page printf(1) line 52 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       Copyright © 2017 Free Software Foundation,  Inc.   License  GPLv3+:[m
+[7m Manual page printf(1) line 53 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.[m
+[7m Manual page printf(1) line 54 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       This  is free software: you are free to change and redistribute it.[m
+[7m Manual page printf(1) line 55 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       There is NO WARRANTY, to the extent permitted by law.[m
+[7m Manual page printf(1) line 56 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page printf(1) line 57 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[1mSEE[0m [1mALSO[0m[m
+[7m Manual page printf(1) line 58 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       printf(3)[m
+[7m Manual page printf(1) line 59 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page printf(1) line 60 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       Full    documentation    at:     <http://www.gnu.org/software/core‐[m
+[7m Manual page printf(1) line 61 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       utils/printf>[m
+[7m Manual page printf(1) line 62 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       or available locally via: info '(coreutils) printf invocation'[m
+[7m Manual page printf(1) line 63 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page printf(1) line 64 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[KGNU coreutils 8.28             January 2018                      PRINTF(1)[m
+[7m Manual page printf(1) line 65 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page printf(1) line 65/92 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       with ARGUMENTs converted to proper type first.  Variable widths are[m
+[29;1H
+[K[7m Manual page printf(1) line 64/92 97% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       and  all  C format specifications ending with one of diouxXfeEgGcs,[m
+[29;1H
+[K[7m Manual page printf(1) line 63/92 97% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 62/92 95% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM              POSIX $'' syntax.[m
+[29;1H
+[K[7m Manual page printf(1) line 61/92 94% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM              input, escaping non-printable characters with  the  proposed[m
+[29;1H
+[K[7m Manual page printf(1) line 60/92 91% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       %q     ARGUMENT  is printed in a format that can be reused as shell[m
+[29;1H
+[K[7m Manual page printf(1) line 59/92 91% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 58/92 91% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM              that octal escapes are of the form \0 or \0NNN[m
+[29;1H
+[K[7m Manual page printf(1) line 57/92 90% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       %b     ARGUMENT as a string with '\'  escapes  interpreted,  except[m
+[29;1H
+[K[7m Manual page printf(1) line 56/92 90% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 55/92 88% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       %%     a single %[m
+[29;1H
+[K[7m Manual page printf(1) line 54/92 85% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 53/92 83% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM              Unicode character with hex value HHHHHHHH (8 digits)[m
+[29;1H
+[K[7m Manual page printf(1) line 52/92 80% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       \UHHHHHHHH[m
+[29;1H
+[K[7m Manual page printf(1) line 51/92 79% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 50/92 79% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM              digits)[m
+[29;1H
+[K[7m Manual page printf(1) line 49/92 78% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       \uHHHH Unicode  (ISO/IEC  10646)  character  with hex value HHHH (4[m
+[29;1H
+[K[7m Manual page printf(1) line 48/92 75% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 47/92 73% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       \xHH   byte with hexadecimal value HH (1 to 2 digits)[m
+[29;1H
+[K[7m Manual page printf(1) line 46/92 71% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 45/92 71% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       \NNN   byte with octal value NNN (1 to 3 digits)[m
+[29;1H
+[K[7m Manual page printf(1) line 44/92 70% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 43/92 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       \v     vertical tab[m
+[29;1H
+[K[7m Manual page printf(1) line 42/92 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 41/92 67% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       \t     horizontal tab[m
+[29;1H
+[K[7m Manual page printf(1) line 40/92 64% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 39/92 62% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       \r     carriage return[m
+[29;1H
+[K[7m Manual page printf(1) line 38/92 62% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 37/92 61% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       \n     new line[m
+[29;1H
+[K[7m Manual page printf(1) line 36/92 58% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 35/92 56% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       \f     form feed[m
+[29;1H
+[K[7m Manual page printf(1) line 34/92 56% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 33/92 55% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       \e     escape[m
+[29;1H
+[K[7m Manual page printf(1) line 32/92 52% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 31/92 49% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       \c     produce no further output[m
+[29;1H
+[K[7m Manual page printf(1) line 30/92 49% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 29/92 47% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       \b     backspace[m
+[29;1H
+[K[7m Manual page printf(1) line 28/92 44% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 27/92 44% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       \a     alert (BEL)[m
+[29;1H
+[K[7m Manual page printf(1) line 26/92 44% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 25/92 43% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       \\     backslash[m
+[29;1H
+[K[7m Manual page printf(1) line 24/92 41% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 23/92 40% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       \"     double quote[m
+[29;1H
+[K[7m Manual page printf(1) line 22/92 40% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 21/92 40% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       are:[m
+[29;1H
+[K[7m Manual page printf(1) line 20/92 37% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       FORMAT controls the output as in C printf.   Interpreted  sequences[m
+[29;1H
+[K[7m Manual page printf(1) line 19/92 37% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 18/92 35% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM              output version information and exit[m
+[29;1H
+[K[7m Manual page printf(1) line 17/92 35% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       [1m--version[0m[m
+[29;1H
+[K[7m Manual page printf(1) line 16/92 33% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 15/92 33% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       [1m--help[0m display this help and exit[m
+[29;1H
+[K[7m Manual page printf(1) line 14/92 32% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 13/92 32% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       OPTION:[m
+[29;1H
+[K[7m Manual page printf(1) line 12/92 31% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       Print  ARGUMENT(s)  according  to  FORMAT,  or execute according to[m
+[29;1H
+[K[7m Manual page printf(1) line 11/92 31% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[1mDESCRIPTION[0m[m
+[29;1H
+[K[7m Manual page printf(1) line 10/92 30% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 9/92 30% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       [1mprintf[0m [4mOPTION[24m[m
+[29;1H
+[K[7m Manual page printf(1) line 8/92 29% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       [1mprintf[0m [4mFORMAT[24m [[4mARGUMENT[24m]...[m
+[29;1H
+[K[7m Manual page printf(1) line 7/92 29% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[1mSYNOPSIS[0m[m
+[29;1H
+[K[7m Manual page printf(1) line 6/92 28% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 5/92 28% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       printf - format and print data[m
+[29;1H
+[K[7m Manual page printf(1) line 4/92 27% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[1mNAME[0m[m
+[29;1H
+[K[7m Manual page printf(1) line 3/92 27% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[29;1H
+[K[7m Manual page printf(1) line 2/92 26% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HMPRINTF(1)                      User Commands                     PRINTF(1)[m
+[29;1H
+[K[7m Manual page printf(1) line 1/92 26% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page printf(1) line 1/92 26% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page printf(1) line 1/92 26% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page printf(1) line 1/92 26% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page printf(1) line 1/92 26% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page printf(1) line 1/92 26% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page printf(1) line 1/92 26% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page printf(1) line 1/92 26% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page printf(1) line 1/92 26% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page printf(1) line 1/92 26% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page printf(1) line 1/92 26% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page printf(1) line 1/92 26% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page printf(1) line 1/92 26% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page printf(1) line 1/92 26% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page printf(1) line 1/92 26% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page printf(1) line 1/92 26% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page printf(1) line 1/92 26% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page printf(1) line 1/92 26% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page printf(1) line 1/92 26% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page printf(1) line 1/92 26% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page printf(1) line 1/92 26% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page printf(1) line 1/92 26% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page printf(1) line 1/92 26% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page printf(1) line 1/92 26% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page printf(1) line 1/92 26% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page printf(1) line 1/92 26% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page printf(1) line 1/92 26% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page printf(1) line 1/92 26% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page printf(1) line 1/92 26% (press h for help or q to quit)[27m[K
+[K[?1l>[?1049l[23;0;0t]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# man printf()3)
+bash: syntax error near unexpected token `('
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# man printf 3
+[?1049h[22;0;0t[?1h=
+PRINTF(1)                      User Commands                     PRINTF(1)[m
+[m
+[1mNAME[0m[m
+       printf - format and print data[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mprintf[0m [4mFORMAT[24m [[4mARGUMENT[24m]...[m
+       [1mprintf[0m [4mOPTION[24m[m
+[m
+[1mDESCRIPTION[0m[m
+       Print  ARGUMENT(s)  according  to  FORMAT,  or execute according to[m
+       OPTION:[m
+[m
+       [1m--help[0m display this help and exit[m
+[m
+       [1m--version[0m[m
+              output version information and exit[m
+[m
+       FORMAT controls the output as in C printf.   Interpreted  sequences[m
+       are:[m
+[m
+       \"     double quote[m
+[m
+       \\     backslash[m
+[m
+       \a     alert (BEL)[m
+[m
+       \b     backspace[m
+[7m Manual page printf(1) line 1 (press h for help or q to quit)[27m[K
+[K[7m Manual page printf(1) line 1 (press h for help or q to quit)[27m[K
+[K[?1l>[?1049l[23;0;0tNo manual entry for 3
+(Alternatively, what manual page do you want from section 3?)
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# man -a printf
+[?1049h[22;0;0t[?1h=
+PRINTF(1)                      User Commands                     PRINTF(1)[m
+[m
+[1mNAME[0m[m
+       printf - format and print data[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mprintf[0m [4mFORMAT[24m [[4mARGUMENT[24m]...[m
+       [1mprintf[0m [4mOPTION[24m[m
+[m
+[1mDESCRIPTION[0m[m
+       Print  ARGUMENT(s)  according  to  FORMAT,  or execute according to[m
+       OPTION:[m
+[m
+       [1m--help[0m display this help and exit[m
+[m
+       [1m--version[0m[m
+              output version information and exit[m
+[m
+       FORMAT controls the output as in C printf.   Interpreted  sequences[m
+       are:[m
+[m
+       \"     double quote[m
+[m
+       \\     backslash[m
+[m
+       \a     alert (BEL)[m
+[m
+       \b     backspace[m
+[7m Manual page printf(1) line 1 (press h for help or q to quit)[27m[K
+[K[?1l>[?1049l[23;0;0t]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# info printf
+[?1h=[?1049h[22;0;0t[H[2J[29;1HWelcome to Info version 6.5.  Type H for help, h for tutorial.[29;1Hgzip -d < /usr/share/info/coreutils.info.gz...[K[29;1HWelcome to Info version 6.5.  Type H for help, h for tutorial.[28;1H[7m-----Info: (coreutils)printf invocation, 124 lines --Top--------------------[0m[1;1HNext: yes invocation,  Prev: echo invocation,  Up: Printing text[3;1H15.2 ‘printf’: Format and print data[4;1H====================================[6;1H‘printf’ does formatted printing of text.  Synopsis:[8;1H     printf FORMAT [ARGUMENT]...[10;1H   ‘printf’ prints the FORMAT string, interpreting ‘%’ directives and[11;1H‘\’ escapes to format numeric and string arguments in a way that is[12;1Hmostly similar to the C ‘printf’ function.  [4m*Note ‘printf’ format[24m[K[13;1H[4mdirectives[24m: (libc)Output Conversion Syntax, for details.  The[K[14;1Hdifferences are listed below.[16;1H   Due to shell aliases and built-in ‘printf’ functions, using an[17;1Hunadorned ‘printf’ interactively or in a script may get you different[18;1Hfunctionality than that described here.  Invoke it via ‘env’ (i.e., ‘env[19;1Hprintf ...’) to avoid interference from the shell.[21;1H   • The FORMAT argument is reused as necessary to convert all the given[22;1H     ARGUMENTs.  For example, the command ‘printf %s a b’ outputs ‘ab’.[24;1H   • Missing ARGUMENTs are treated as null strings or as zeros,[25;1H     depending on whether the context expects a string or a number.  For[26;1H     example, the command ‘printf %sx%d’ prints ‘x0’.[1;1H[1;1H[29;1H[K[29;1H[K[?1l>[?1049l[23;0;0t[29;1H[K[?1l>[?1049l[23;0;0t]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# whatis printf
+printf (1)           - format and print data
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# clear
+[3J[H[2J]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# wh[K[Kclearwhatis printf
+printf (1)           - format and print data
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# clear
+[3J[H[2J]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# mkdir trashkov
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# cd trashkov
+]0;root@instance-1: /home/room255131/trashkovroot@instance-1:/home/room255131/trashkov# pwd
+/home/room255131/trashkov
+]0;root@instance-1: /home/room255131/trashkovroot@instance-1:/home/room255131/trashkov# cd -
+/home/room255131
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# pwd
+/home/room255131
+]0;root@instance-1: /home/room255131root@instance-1:/home/room255131# pwdcd -[1Ppwdcd trashkov
+]0;root@instance-1: /home/room255131/trashkovroot@instance-1:/home/room255131/trashkov# cd trashkovpwd[K
+/home/room255131/trashkov
+]0;root@instance-1: /home/room255131/trashkovroot@instance-1:/home/room255131/trashkov# exit
+exit
+
+Script done on 2020-03-12 20:06:06+0000
